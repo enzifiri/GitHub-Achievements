@@ -100,4 +100,40 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 ![image](https://user-images.githubusercontent.com/76253089/206918372-765a550e-6aba-43f5-9f0d-95595cda51cd.png)
     
   </details>
+  
+  <details>
+  <summary> <h1> 1.) Pair Extraordinaire Başarımı</summary> </h1>
+  
+![image](https://user-images.githubusercontent.com/76253089/206911235-310c096c-3a02-4373-9838-88aab91194e0.png)
+<h3> Bu başarım için pull request oluşturucaz, yorum kısmına verdiğim kodu yazıp öyle isteği göndereceksiniz.
+
+# Önce Bu repoyu sağ üstten forklayın, Sonra profilinize gidip Repositories kısmından Github-Basarimlar reposuna girin.</h3>
+
+# İşaretlediğim kalem işaretine tıklayıp düzenleme aşamasına gelin
+![image](https://user-images.githubusercontent.com/76253089/206911370-11792ad3-9289-4719-b2db-e8ed7774288d.png)
+
+# İşaretlediğim yazının sonuna nokta koyun (.) 
+![image](https://user-images.githubusercontent.com/76253089/206911480-6ee927f2-0fa7-4d6f-aeea-256d47096e28.png)
+
+# Sayfayı aşağı çekin ve Commit changes kısmındaki "Create a new branch .... start a pull requesti seçin ve altta verdiğim komutu yorum kısmına yapıştırın. Propose changes tusuna basın
+```
+    Co-authored-by: @kriptodostu <kriptodostu@gmail.com>
+    ```
+![image](https://user-images.githubusercontent.com/76253089/206920157-95529e70-a1f4-4b67-a37d-741550558aca.png)
+
+# Burda ise direk Create Pull Requeste basın
+![image](https://user-images.githubusercontent.com/76253089/206911691-2684f01f-4cbf-457d-b6bf-a8ee0a404e7f.png)
+
+# Şimdi oluşturduğunuz Pull Requesti bana iletmeniz gerekiyor alttaki yazıya tıklayın
+ <h2> <a href="https://github.com/kriptodostu/Github-Basarimlar/compare/" target="_blank">Buraya tıklayın!</a> </h2>
+<br>
+
+# Buraya dikkat edin açılan ekranda bu kısmı düzenlemeniz lazım aşağıdaki örnek foto ve yazıyı inceleyebilirsiniz. <br>
+base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-basarimlar compare: forkismi-patch-1
+![image](https://user-images.githubusercontent.com/76253089/206915095-cc3bbff1-d5d0-40bf-bfb2-8d2f9c2ae7ec.png)
+# Ayarladıktan sonra Create Pull request diyip açılan ekranda Tekrar pull requeste basın
+![image](https://user-images.githubusercontent.com/76253089/206915324-eba6b284-b95f-4db5-b109-2083195a061d.png)
+
+# İşlem bu kadardı. Sonrasında pull requestinizin onaylanmasını bekleyin. Sorunuz varsa Rues Community chat üzerinden beni etiketleyerek sorabilirsiniz @enzifiri
+</details>
 
