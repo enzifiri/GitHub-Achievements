@@ -1,4 +1,4 @@
-# GitHub Profile Achievements 🏆...
+# GitHub Profile Achievements 🏆.
 # Merhaba, Öncelikle bu repoyu sağ üstten fork + starlayın. 🥇
 <br>
 
@@ -45,14 +45,17 @@ Pull Shark x3 | Silver 🥈 | <img alt="Pull Shark Silver Badge" src="https://gi
 Pull Shark x4 | Gold 🥇 | <img alt="Pull Shark Gold Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/pull-shark-gold.png" style="width: 180px;"> | 1024 pull requests merged
 <br>
 <br>
-## Üstteki başarımları inceleyebilirsiniz. Ben burda yapılabilecek olanları anlattım diğerlerini internette aratarak yapabilirsiniz.
-<br>
-<details open>
+
+# Üstteki başarımları inceleyebilirsiniz. Ben burda yapılabilecek olanları anlattım diğerlerini internette aratarak yapabilirsiniz.
+
+# Şimdi Nasıl alacağımıza geçelim. 
+<details>
   <summary> <h1> 1.) Pull Shark Başarımı</summary> </h1>
   
 ![image](https://user-images.githubusercontent.com/76253089/206911235-310c096c-3a02-4373-9838-88aab91194e0.png)
-Bu başarım için 2 kere Pull Request oluşturmanız gerekiyor. Bu repo üzerinden işlemleri gerçekleştiricez.
-Önce Bu repoyu sağ üstten forklayın, Sonra profiline gidip Repositories kısmından Github-Basarimlar reposuna girin.
+<h3> Bu başarım için 2 kere Pull Request oluşturmanız gerekiyor. Bu repo üzerinden işlemleri gerçekleştiricez.
+
+# Önce Bu repoyu sağ üstten forklayın, Sonra profilinize gidip Repositories kısmından Github-Basarimlar reposuna girin.</h3>
 
 # İşaretlediğim kalem işaretine tıklayıp düzenleme aşamasına gelin
 ![image](https://user-images.githubusercontent.com/76253089/206911370-11792ad3-9289-4719-b2db-e8ed7774288d.png)
@@ -74,5 +77,18 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 # Ayarladıktan sonra Create Pull request diyip açılan ekranda Tekrar pull requeste basın
 ![image](https://user-images.githubusercontent.com/76253089/206915324-eba6b284-b95f-4db5-b109-2083195a061d.png)
 
-# İşlem bu kadardı sonra bana pull requestiniz iletilecek ben de onaylayacağım. İletişim için tgden yazabilirsiniz @enzifiri
+# Bu işlemi 2 kere tekrarlayın. Başarım için 2 kere Pull Request oluşturmalısınız.Ben onayladıktan sonra rozetleriniz hesabınıza tanımlanacak. İletişim için tgden yazabilirsiniz @enzifiri
 </details>
+<br>
+  
+  <details>
+  <summary> <h1> 1.) Quickdrav Başarımı</summary> </h1>
+    <img width="148" alt="quickdraw-default" src="https://user-images.githubusercontent.com/76253089/206917825-c542872e-6413-401d-8076-bbe4786af1cf.png">
+    <h3> Bu başarımda da pull request yapmamız gerekiyor ama bu sefer açtığınız pull requesti close diyip kapatacaksınız. </h3>
+    <br>
+    
+ # Shark Başarımındaki gibi bu repoyu forklayın ve forkladığınız repoyu düzenlemeye geçin. Sonrasında pull requesti oluşturun.
+![image](https://user-images.githubusercontent.com/76253089/206917890-c9634194-5848-417f-bd12-fe7e4c70b4f0.png)
+
+  </details>
+
