@@ -1,7 +1,8 @@
 <h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır. 🏆 </h1>
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/76253089/206920891-e62b2603-4a1c-471a-b36d-57a0a50e5e7e.png)
+![image](https://user-images.githubusercontent.com/76253089/206926135-6fc786a9-2838-4672-8c95-6224b4594868.png)
+
 
   
 </div>
