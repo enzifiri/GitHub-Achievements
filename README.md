@@ -43,7 +43,7 @@ Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/i
 
 ## Tiers
 
-Bazı başarımlara level atlatabiliyorsunuz.
+Bazı başarımlara level atlatabiliyorsunuz..
 
 | Title | Tier | Badge | Earned by |
 | --- | --- | --- | --- |
