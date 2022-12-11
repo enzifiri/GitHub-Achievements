@@ -1,4 +1,4 @@
-# GitHub Profile Achievements 🏆
+# GitHub Profil Başarımları 🏆
 # Merhaba, Öncelikle bu repoyu sağ üstten fork + starlayın. 🥇
 <br>
 
