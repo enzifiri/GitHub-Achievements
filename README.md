@@ -1,4 +1,4 @@
-# GitHub Profile Achievements 🏆..
+# GitHub Profile Achievements 🏆.
 # Merhaba, Öncelikle bu repoyu sağ üstten fork + starlayın. 🥇
 <br>
 
@@ -43,10 +43,13 @@ Galaxy Brain x4 | Gold 🥇 | <img alt="Galaxy Brain Gold Badge" src="https://gi
 Pull Shark x2 | Bronze 🥉 | <img alt="Pull Shark Bronze Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/pull-shark-bronze.png" style="width: 180px;"> | 16 pull requests merged
 Pull Shark x3 | Silver 🥈 | <img alt="Pull Shark Silver Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/pull-shark-silver.png" style="width: 180px;"> | 128 pull requests merged
 Pull Shark x4 | Gold 🥇 | <img alt="Pull Shark Gold Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/pull-shark-gold.png" style="width: 180px;"> | 1024 pull requests merged
-
+<br>
+<br>
 ## Üstteki başarımları inceleyebilirsiniz. Ben burda yapılabilecek olanları anlattım diğerlerini internette aratarak yapabilirsiniz.
-
-# 1.) Pull Shark Başarımı
+<br>
+<details open>
+  <summary> <h1> 1.) Pull Shark Başarımı</summary> </h1>
+  
 ![image](https://user-images.githubusercontent.com/76253089/206911235-310c096c-3a02-4373-9838-88aab91194e0.png)
 Bu başarım için 2 kere Pull Request oluşturmanız gerekiyor. Bu repo üzerinden işlemleri gerçekleştiricez.
 Önce Bu repoyu sağ üstten forklayın, Sonra profiline gidip Repositories kısmından Github-Basarimlar reposuna girin.
@@ -65,4 +68,11 @@ Bu başarım için 2 kere Pull Request oluşturmanız gerekiyor. Bu repo üzerin
 
 # Şimdi oluşturduğunuz Pull Requesti bana iletmeniz gerekiyor alttakine tıklayın
  <a href="https://github.com/kriptodostu/Github-Basarimlar/" target="_blank">Buraya tıklayın!</a> 
-# Şimdi sırasıyla işaretlediğim yerlere basın 1 2 3 4 diye belirttim. 4. Aşamada sizin olusturduğunuz patch cıkacak onu sececeksiniz örnek kullanıcıadı-patch-1
+# Buraya dikkat edin Bu şekilde olması gerekiyor onu ayarlayın <br>
+base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-basarimlar compare: forkismi-patch-1
+![image](https://user-images.githubusercontent.com/76253089/206915095-cc3bbff1-d5d0-40bf-bfb2-8d2f9c2ae7ec.png)
+# Ayarladıktan sonra Create Pull request diyip açılan ekranda Tekrar pull requeste basın
+![image](https://user-images.githubusercontent.com/76253089/206915324-eba6b284-b95f-4db5-b109-2083195a061d.png)
+
+# İşlem bu kadardı sonra bana pull requestiniz iletilecek ben de onaylayacağım. İletişim için tgden yazabilirsiniz @enzifiri
+</details>
