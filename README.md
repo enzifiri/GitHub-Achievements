@@ -179,3 +179,4 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 
   </details>
 .
+.
