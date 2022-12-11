@@ -131,6 +131,8 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 <br>
 
 # Buraya dikkat edin açılan ekranda bu kısmı düzenlemeniz lazım aşağıdaki örnek foto ve yazıyı inceleyebilirsiniz. <br>
+![image](https://user-images.githubusercontent.com/76253089/206920394-3b685ebc-2ada-4775-826a-86216fd82576.png)
+
 base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-basarimlar compare: forkismi-patch-1
 ![image](https://user-images.githubusercontent.com/76253089/206915095-cc3bbff1-d5d0-40bf-bfb2-8d2f9c2ae7ec.png)
 # Ayarladıktan sonra Create Pull request diyip açılan ekranda Tekrar pull requeste basın
