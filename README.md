@@ -131,7 +131,7 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 # Sayfayı aşağı çekin ve Commit changes kısmındaki "Create a new branch .... start a pull requesti seçin ve altta verdiğim komutu yorum kısmına yapıştırın. Propose changes tusuna basın
     
 ```
-    Co-authored-by: @kriptodostu <kriptodostu@gmail.com>
+    Co-authored-by: Kral001 <kral16024@gmail.com>
 ```
     
 ![image](https://user-images.githubusercontent.com/76253089/206920157-95529e70-a1f4-4b67-a37d-741550558aca.png)
