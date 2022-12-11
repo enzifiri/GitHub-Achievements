@@ -178,3 +178,4 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 ## Soruları ben tek tek yazıyorum eğer boşta soru kalmamışsa telegramdan bana ulaşın @enzifiri
 
   </details>
+.
