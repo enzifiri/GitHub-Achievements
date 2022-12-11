@@ -21,7 +21,7 @@ Pull Shark | ![Pull Shark Badge](https://github.com/kriptodostu/github-profile-a
 YOLO | ![YOLO Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/yolo-default.png) | ✔️ | Kod düzeltmeden Pull Request oluşturdun ve kabul edildi.
 ||| <!-- this empty row is intentional to separate -->
 Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
-Public Sponsor | ![GitHub Sponsor Achievement Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
+Public Sponsor. | ![GitHub Sponsor Achievement Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
 Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/images/mars-2020-contributor-default.png) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/mars-2020-contributor-default.png)
 <br> 
 ## Tiers
