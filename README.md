@@ -82,7 +82,7 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 <br>
   
   <details>
-  <summary> <h1> 1.) Quickdrav Başarımı</summary> </h1>
+  <summary> <h1> 2.) Quickdraw Başarımı</summary> </h1>
     <img width="148" alt="quickdraw-default" src="https://user-images.githubusercontent.com/76253089/206917825-c542872e-6413-401d-8076-bbe4786af1cf.png">
     <h3> Bu başarımda da pull request yapmamız gerekiyor ama bu sefer açtığınız pull requesti close diyip kapatacaksınız. </h3>
     <br>
@@ -90,5 +90,7 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
  # Shark Başarımındaki gibi bu repoyu forklayın ve forkladığınız repoyu düzenlemeye geçin. Sonrasında pull requesti oluşturun.
 ![image](https://user-images.githubusercontent.com/76253089/206917890-c9634194-5848-417f-bd12-fe7e4c70b4f0.png)
 
+ #Sonra açılan sayfada işaretli yere basıp pull requesti kapatın işlem bu kadar basit..
+    ![image](https://user-images.githubusercontent.com/76253089/206917986-3f418162-339e-4dc1-933a-9560316057f4.png)
   </details>
 
