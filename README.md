@@ -81,9 +81,9 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 
 # Bu işlemi 2 kere tekrarlayın. Başarım için 2 kere Pull Request oluşturmalısınız.Ben onayladıktan sonra rozetleriniz hesabınıza tanımlanacak. İletişim için tgden yazabilirsiniz @enzifiri
 </details>
-<br>
+
   
-  <details>
+<details>
   <summary> <h1> 2.) Quickdraw Başarımı</summary> </h1>
     <img width="148" alt="quickdraw-default" src="https://user-images.githubusercontent.com/76253089/206917825-c542872e-6413-401d-8076-bbe4786af1cf.png">
     <h3> Bu başarımda da pull request yapmamız gerekiyor ama bu sefer açtığınız pull requesti close diyip kapatacaksınız. </h3>
@@ -101,3 +101,41 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
     
   </details>
 
+<details>
+  <summary> <h1> 3.) Pair Extraordinairew Başarımı</summary> </h1>
+    <img width="148" alt="pair-extraordinaire-default" src="https://user-images.githubusercontent.com/76253089/206918851-19405caa-6175-4ba8-92f4-e1f522429b37.png">
+
+## Bunu da pull request yaparak alabiliyoruz. Yorum kısmına beni ekleyeceksiniz o kadar anlatıma geçeyim. </h3>
+  
+ ## Bu repoyu forklayın ve profilinize gidip Github-Basarimlar reposuna girin.
+ # İşaretlediğim kalem işaretine tıklayıp düzenleme aşamasına gelin
+![image](https://user-images.githubusercontent.com/76253089/206911370-11792ad3-9289-4719-b2db-e8ed7774288d.png)
+
+## İşaretlediğim yazının sonuna nokta koyun (.) 
+![image](https://user-images.githubusercontent.com/76253089/206911480-6ee927f2-0fa7-4d6f-aeea-256d47096e28.png)
+
+## Sayfayı aşağı çekin ve Commit changes kısmındaki "Create a new branch .... start a pull requesti seçin ve yorum kısmına aşağıdaki komutu girin. Sonra purpose diyip sonraki aşamaya geçin
+```
+  Co-authored-by: @kriptodostu <kriptodostu@gmail.com>
+```
+![image](https://user-images.githubusercontent.com/76253089/206919413-9f01363e-a619-4a2d-9015-cee868dcff22.png)
+
+## Burda ise direk Create Pull Requeste basın
+![image](https://user-images.githubusercontent.com/76253089/206911691-2684f01f-4cbf-457d-b6bf-a8ee0a404e7f.png)
+
+## Şimdi oluşturduğunuz Pull Requesti bana iletmeniz gerekiyor alttaki yazıya tıklayın
+ <h2> <a href="https://github.com/kriptodostu/Github-Basarimlar/compare/" target="_blank">Buraya tıklayın!</a> </h2>
+<br>
+
+## Açılan ekranı aşağıda belirttiğim gibi düzenlemeniz gerekiyor. Örnek olarak alttaki fotoya ve yazıya bakın. <br>
+base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-basarimlar compare: forkismi-patch-1
+![image](https://user-images.githubusercontent.com/76253089/206915095-cc3bbff1-d5d0-40bf-bfb2-8d2f9c2ae7ec.png)
+## Ayarladıktan sonra Create Pull request diyip açılan ekranda Tekrar pull requeste basın
+![image](https://user-images.githubusercontent.com/76253089/206915324-eba6b284-b95f-4db5-b109-2083195a061d.png)
+
+## İşlemler bu kadardı sonrasında prınızın onaylanmasını bekleyeceksiniz.
+  </details>
+
+# Sorusu olan aşağıki gruba gelip sorabilir. 
+   <h2> <a href="https://t.me/+mRfJmmHZmu85Nzk8" target="_blank">Telegram Link</a> </h2>
+  
