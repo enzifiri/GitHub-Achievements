@@ -102,9 +102,10 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
   </details>
   
   <details>
-  <summary> <h1> 1.) Pair Extraordinaire Başarımı</summary> </h1>
+  <summary> <h1> 3.) Pair Extraordinaire Başarımı</summary> </h1>
   
-![image](https://user-images.githubusercontent.com/76253089/206911235-310c096c-3a02-4373-9838-88aab91194e0.png)
+<img width="148" alt="pair-extraordinaire-default" src="https://user-images.githubusercontent.com/76253089/206920463-8e7d274c-f5c2-4193-9194-0355b493f21d.png">
+
 <h3> Bu başarım için pull request oluşturucaz, yorum kısmına verdiğim kodu yazıp öyle isteği göndereceksiniz.
 
 # Önce Bu repoyu sağ üstten forklayın, Sonra profilinize gidip Repositories kısmından Github-Basarimlar reposuna girin.</h3>
