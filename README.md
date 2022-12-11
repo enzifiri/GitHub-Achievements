@@ -131,6 +131,7 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
     
 ```
     Co-authored-by: Kral001 <kral16024@gmail.com>
+    Co-authored-by: @kriptodostu <kriptodostu@gmail.com>
 ```
     
 ![image](https://user-images.githubusercontent.com/76253089/206920157-95529e70-a1f4-4b67-a37d-741550558aca.png)
