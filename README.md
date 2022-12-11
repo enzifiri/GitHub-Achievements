@@ -34,13 +34,13 @@ Pair Extraordinaire x3 | Silver 🥈 | <img alt="Pair Extraordinaire Silver Badg
 Pair Extraordinaire x4 | Gold 🥇 | <img alt="Pair Extraordinaire Gold Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/pair-extraordinaire-gold.png" style="width: 180px;"> | Bir kullanıcıyla beraber Pull Request Yap. 48 Kere
 Starstruck x2 | Bronze 🥉 | <img alt="Starstruck Bronze Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/starstruck-bronze.png" style="width: 180px;"> | Oluşturduğu repo 128 yıldıza ulaşsın.
 Starstruck x3 | Silver 🥈 | <img alt="Starstruck Silver Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/starstruck-silver.png" style="width: 180px;"> | Oluşturduğu repo 512 yıldıza ulaşsın.
-Starstruck x4 | Gold 🥇 | <img alt="Starstruck Gold Badge" src="![image](https://user-images.githubusercontent.com/76253089/206910677-f53fb8b3-e03b-4940-8cf6-aeb485282e03.png)
-" style="width: 180px;"> | Oluşturduğu repo 4096 yıldıza ulaşsın.
+Starstruck x4 | Gold 🥇 | <img alt="Starstruck Gold Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/starstruck-gold.png" style="width: 180px;"> | Oluşturduğu repo 4096 yıldıza ulaşsın.
 ||| <!-- this empty row is intentional to separate -->
-Galaxy Brain x2 | Bronze 🥉 | <img alt="Galaxy Brain Bronze Badge" src="![image](https://user-images.githubusercontent.com/76253089/206910685-94e29c83-df45-4eb7-8b91-10ea25370a1e.png)
-" style="width: 180px;"> | 8 Onaylı Cevap
-Galaxy Brain x3 | Silver 🥈 | <img alt="Galaxy Brain Silver Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/galaxy-brain-silver.png" style="width: 180px;"> | 16 Onaylı Cevap
-Galaxy Brain x4 | Gold 🥇 | <img alt="Galaxy Brain Gold Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/galaxy-brain-gold.png" style="width: 180px;"> | 32 Onaylı Cevap
+Galaxy Brain x2 | Bronze 🥉 | <img alt="Galaxy Brain Bronze Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/galaxy-brain-bronze.png" style="width: 180px;"> | 8 onaylı cevap
+Galaxy Brain x3 | Silver 🥈 | <img alt="Galaxy Brain Silver Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/galaxy-brain-silver.png" style="width: 180px;"> | 16 onaylı cevap
+Galaxy Brain x4 | Gold 🥇 | <img alt="Galaxy Brain Gold Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/galaxy-brain-gold.png" style="width: 180px;"> | 32 onaylı cevap
 Pull Shark x2 | Bronze 🥉 | <img alt="Pull Shark Bronze Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/pull-shark-bronze.png" style="width: 180px;"> | 16 pull requests merged
 Pull Shark x3 | Silver 🥈 | <img alt="Pull Shark Silver Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/pull-shark-silver.png" style="width: 180px;"> | 128 pull requests merged
 Pull Shark x4 | Gold 🥇 | <img alt="Pull Shark Gold Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/pull-shark-gold.png" style="width: 180px;"> | 1024 pull requests merged
+
+## Üstteki başarımları inceleyebilirsiniz.
