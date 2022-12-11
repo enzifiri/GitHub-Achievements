@@ -70,7 +70,9 @@ Pull Shark x4 | Gold 🥇 | <img alt="Pull Shark Gold Badge" src="https://github
 ![image](https://user-images.githubusercontent.com/76253089/206911691-2684f01f-4cbf-457d-b6bf-a8ee0a404e7f.png)
 
 # Şimdi oluşturduğunuz Pull Requesti bana iletmeniz gerekiyor alttakine tıklayın
- <a href="https://github.com/kriptodostu/Github-Basarimlar/" target="_blank">Buraya tıklayın!</a> 
+ <h2> <a href="https://github.com/kriptodostu/Github-Basarimlar/compare/" target="_blank">Buraya tıklayın!</a> </h2>
+<br>
+
 # Buraya dikkat edin Bu şekilde olması gerekiyor onu ayarlayın <br>
 base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-basarimlar compare: forkismi-patch-1
 ![image](https://user-images.githubusercontent.com/76253089/206915095-cc3bbff1-d5d0-40bf-bfb2-8d2f9c2ae7ec.png)
