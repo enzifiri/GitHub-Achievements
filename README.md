@@ -130,8 +130,8 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 # Sayfayı aşağı çekin ve Commit changes kısmındaki "Create a new branch .... start a pull requesti seçin ve altta verdiğim komutu yorum kısmına yapıştırın. Propose changes tusuna basın
     
 ```
-    Co-authored-by: Kral001 <kral16024@gmail.com>
-    Co-authored-by: @kriptodostu <kriptodostu@gmail.com>
+Co-authored-by: Kral001 <kral16024@gmail.com>
+Co-authored-by: @kriptodostu <kriptodostu@gmail.com>
 ```
     
 ![image](https://user-images.githubusercontent.com/76253089/206920157-95529e70-a1f4-4b67-a37d-741550558aca.png)
@@ -151,6 +151,6 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 # Ayarladıktan sonra Create Pull request diyip açılan ekranda Tekrar pull requeste basın
 ![image](https://user-images.githubusercontent.com/76253089/206915324-eba6b284-b95f-4db5-b109-2083195a061d.png)
 
-# İşlem bu kadardı. Sonrasında pull requestinizin onaylanmasını bekleyin. Sorunuz varsa Rues Community chat üzerinden beni etiketleyerek sorabilirsiniz @enzifiri
+# İşlem bu kadardı.. Sonrasında pull requestinizin onaylanmasını bekleyin. Sorunuz varsa Rues Community chat üzerinden beni etiketleyerek sorabilirsiniz @enzifiri
 </details>
 
