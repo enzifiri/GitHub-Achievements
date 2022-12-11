@@ -95,7 +95,7 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
     
 <br>
     
- # Sonra açılan sayfada işaretli yere basıp pull requesti kapatın işlem bu kadar basit..
+ # Sonra açılan sayfada işaretli yere basıp pull requesti kapatın işlem bu kadar basit...
     
 ![image](https://user-images.githubusercontent.com/76253089/206918372-765a550e-6aba-43f5-9f0d-95595cda51cd.png)
     
