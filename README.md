@@ -1,4 +1,11 @@
-# GitHub Profil Başarımları 🏆
+<h1 align="center"> GitHub Profil Başarımları 🏆 </h1>
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/76253089/206920891-e62b2603-4a1c-471a-b36d-57a0a50e5e7e.png)
+
+  
+</div>
+
 # Merhaba, Öncelikle bu repoyu sağ üstten fork + starlayın. 🥇
 <br>
 
@@ -23,7 +30,7 @@ YOLO | ![YOLO Badge](https://github.com/kriptodostu/github-profile-achievements/
 Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
 Public Sponsor | ![GitHub Sponsor Achievement Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
 Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/images/mars-2020-contributor-default.png) | ❌ | Contributed code to repositories used in the [Mars 2020 Helicopter Mission](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/mars-2020-contributor-default.png)
-<br> 
+
 ## Tiers
 
 Bazı başarımlara level atlatabiliyorsunuz.
