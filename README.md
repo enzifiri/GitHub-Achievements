@@ -6,12 +6,16 @@
   
 </div>
 
+## Github başarımları sayesinde form doldurduğunuz projelerden seçilme ihtimalinizi az da olsa arttırabileceğinizi düşünüyorum. Profilde dikkat çekici duruyor. Bazı başarımları almak gayet kolay, nasıl alabileceğinizi anlatmaya çalısıcam. Öncelikle Başarımları bi inceleyelim.
+
+<br>
+
 # Merhaba, Öncelikle bu repoyu sağ üstten fork + starlayın. 🥇
 <br>
 
 ![image](https://user-images.githubusercontent.com/76253089/206909805-28666435-4b75-4ca0-b44b-83241bcd33dc.png) <br>
 
-## Github başarımları sayesinde form doldurduğunuz projelerden seçilme ihtimalinizi az da olsa arttırabileceğinizi düşünüyorum. Profilde dikkat çekici duruyor. Bazı başarımları almak gayet kolay, nasıl alabileceğinizi anlatmaya çalısıcam. Öncelikle Başarımları bi inceleyelim.
+
 ## Achievements
 
 | Title | Badge | Earnable? | Earned by |
