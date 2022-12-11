@@ -100,10 +100,9 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
     <img width="148" alt="quickdraw-default" src="https://user-images.githubusercontent.com/76253089/206917825-c542872e-6413-401d-8076-bbe4786af1cf.png">
     <h3> Bu başarımda da pull request yapmamız gerekiyor ama bu sefer açtığınız pull requesti close diyip kapatacaksınız. </h3>
     
-    <br>
     
  # Shark Başarımındaki gibi bu repoyu forklayın ve forkladığınız repoyu düzenlemeye geçin. Sonrasında pull requesti oluşturun.
-![image](https://user-images.githubusercontent.com/76253089/206917890-c9634194-5848-417f-bd12-fe7e4c70b4f0.png)ü
+![image](https://user-images.githubusercontent.com/76253089/206917890-c9634194-5848-417f-bd12-fe7e4c70b4f0.png)
     
 <br>
     
