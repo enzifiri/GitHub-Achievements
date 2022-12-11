@@ -154,13 +154,19 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 # İşlem bu kadardı.. Sonrasında pull requestinizin onaylanmasını bekleyin. Sorunuz varsa Rues Community chat üzerinden beni etiketleyerek sorabilirsiniz @enzifiri
 </details>
 
+   
 <details>
   <summary> <h1> 4.) Galaxy Brain </summary> </h1>
+  
   <img width="148" alt="galaxy-brain-default" src="https://user-images.githubusercontent.com/76253089/206925619-918db619-98d9-4bdc-aeb1-6aad99d7ba35.png">
+  
+<br>
+  
   ## Bu rozet için 2 adet soruya cevap verip, soru sahibinin cevabınızı onaylaması gerekmektedir.
 
 ## Öncelikle alttaki yazıya tıklayın açılan sayfada cevaplanmamış herhangi bi soruya girin
 <h2> <a href="https://github.com/kriptodostu/Github-Basarimlar/discussions" target="_blank">Buraya tıklayın!</a> </h2>
+  
 ![image](https://user-images.githubusercontent.com/76253089/206925855-b905faa2-b59b-4ac8-948d-2b3023139d13.png)
 
 ## Sonra herhangi bi yazı yazıp comment tusuna basın
