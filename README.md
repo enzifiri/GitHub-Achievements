@@ -1,5 +1,5 @@
-<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır 🏆 </h1>.
-<div align="center">.
+<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır. 🏆 </h1>
+<div align="center">
   
 ![image](https://user-images.githubusercontent.com/76253089/206920891-e62b2603-4a1c-471a-b36d-57a0a50e5e7e.png)
 
@@ -100,10 +100,9 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
     <img width="148" alt="quickdraw-default" src="https://user-images.githubusercontent.com/76253089/206917825-c542872e-6413-401d-8076-bbe4786af1cf.png">
     <h3> Bu başarımda da pull request yapmamız gerekiyor ama bu sefer açtığınız pull requesti close diyip kapatacaksınız. </h3>
     
-    <br>
     
  # Shark Başarımındaki gibi bu repoyu forklayın ve forkladığınız repoyu düzenlemeye geçin. Sonrasında pull requesti oluşturun.
-![image](https://user-images.githubusercontent.com/76253089/206917890-c9634194-5848-417f-bd12-fe7e4c70b4f0.png)ü
+![image](https://user-images.githubusercontent.com/76253089/206917890-c9634194-5848-417f-bd12-fe7e4c70b4f0.png)
     
 <br>
     
@@ -131,7 +130,8 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 # Sayfayı aşağı çekin ve Commit changes kısmındaki "Create a new branch .... start a pull requesti seçin ve altta verdiğim komutu yorum kısmına yapıştırın. Propose changes tusuna basın
     
 ```
-    Co-authored-by: @kriptodostu <kriptodostu@gmail.com>
+Co-authored-by: Kral001 <kral16024@gmail.com>
+Co-authored-by: @kriptodostu <kriptodostu@gmail.com>
 ```
     
 ![image](https://user-images.githubusercontent.com/76253089/206920157-95529e70-a1f4-4b67-a37d-741550558aca.png)
@@ -151,6 +151,6 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 # Ayarladıktan sonra Create Pull request diyip açılan ekranda Tekrar pull requeste basın
 ![image](https://user-images.githubusercontent.com/76253089/206915324-eba6b284-b95f-4db5-b109-2083195a061d.png)
 
-# İşlem bu kadardı. Sonrasında pull requestinizin onaylanmasını bekleyin. Sorunuz varsa Rues Community chat üzerinden beni etiketleyerek sorabilirsiniz @enzifiri
+# İşlem bu kadardı.. Sonrasında pull requestinizin onaylanmasını bekleyin. Sorunuz varsa Rues Community chat üzerinden beni etiketleyerek sorabilirsiniz @enzifiri
 </details>
 
