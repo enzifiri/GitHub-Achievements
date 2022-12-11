@@ -65,4 +65,4 @@ Bu başarım için 2 kere Pull Request oluşturmanız gerekiyor. Bu repo üzerin
 
 # Şimdi oluşturduğunuz Pull Requesti bana iletmeniz gerekiyor alttakine tıklayın
  <a href="https://github.com/kriptodostu/Github-Basarimlar/" target="_blank">Buraya tıklayın!</a> 
-
+# Şimdi sırasıyla işaretlediğim yerlere basın 1 2 3 4 diye belirttim. 4. Aşamada sizin olusturduğunuz patch cıkacak onu sececeksiniz örnek kullanıcıadı-patch-1
