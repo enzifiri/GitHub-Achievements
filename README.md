@@ -45,7 +45,7 @@ Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/i
 
 Bazı başarımlara level atlatabiliyorsunuz.
 
-| Title | Tier | Badge | Earned by |
+| Basarim | Tier | Badge | Earned by |
 | --- | --- | --- | --- |
 Pair Extraordinaire x2 | Bronze 🥉 | <img alt="Pair Extraordinaire Bronze Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/pair-extraordinaire-bronze.png" style="width: 180px;"> | Bir kullanıcıyla beraber Pull Request Yap. 10 Kere
 Pair Extraordinaire x3 | Silver 🥈 | <img alt="Pair Extraordinaire Silver Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/pair-extraordinaire-silver.png" style="width: 180px;"> | Bir kullanıcıyla beraber Pull Request Yap. 24 Kere
