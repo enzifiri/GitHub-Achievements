@@ -1,4 +1,4 @@
-<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır.... 🏆 </h1>
+<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır.. 🏆 </h1>
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/76253089/206926135-6fc786a9-2838-4672-8c95-6224b4594868.png)
@@ -99,7 +99,7 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 
 # Bu işlemi 2 kere tekrarlayın. Başarım için 2 kere Pull Request oluşturmalısınız.Ben onayladıktan sonra rozetleriniz hesabınıza tanımlanacak. İletişim için tgden yazabilirsiniz @enzifiri
 </details>
-<br>
+
   
   <details>
   <summary> <h1> 2.) Quickdraw Başarımı</summary> </h1>
