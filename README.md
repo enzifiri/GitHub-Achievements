@@ -35,7 +35,7 @@ Starstruck | ![Starstruck Badge](https://github.com/kriptodostu/github-profile-a
 ||| <!-- this empty row is intentional to separate -->
 Galaxy Brain | ![Galaxy Brain Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/galaxy-brain-default.png) | ✔️ | 2 Tane Onaylanmış Cevap
 Pull Shark | ![Pull Shark Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/pull-shark-default.png) | ✔️ | 2 Pull Request Oluşturdun ve Kabul edildi.
-YOLO | ![YOLO Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/yolo-default.png) | ✔️ | Kod düzeltmeden Pull Request oluşturdun ve kabul edildi.
+YOLO | ![YOLO Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/yolo-default.png) | ✔️ | Kendi Reponuza, Pull Requesti inceleyecek birini atayın ve pull request oluşturun.
 ||| <!-- this empty row is intentional to separate -->
 Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
 Public Sponsor | ![GitHub Sponsor Achievement Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
