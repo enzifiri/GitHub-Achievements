@@ -99,7 +99,7 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 
 # Bu işlemi 2 kere tekrarlayın. Başarım için 2 kere Pull Request oluşturmalısınız.Ben onayladıktan sonra rozetleriniz hesabınıza tanımlanacak. İletişim için tgden yazabilirsiniz @enzifiri
 </details>
-<br>
+
   
   <details>
   <summary> <h1> 2.) Quickdraw Başarımı</summary> </h1>
