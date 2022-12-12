@@ -11,7 +11,7 @@
 
  <h2> <a href="https://github.com/kriptodostu" target="_blank">Profil Linki</a> </h2>
  
-![image](https://user-images.githubusercontent.com/76253089/206928262-5faeb59b-ea3c-4718-ba65-310bdfe17b98.png)
+![image](https://user-images.githubusercontent.com/76253089/206989656-f57f282b-85ef-4c08-b632-bdc5ebac3ce9.png)
 
 
 <br>
