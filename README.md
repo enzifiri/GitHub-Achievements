@@ -22,7 +22,7 @@
 ![image](https://user-images.githubusercontent.com/76253089/206909805-28666435-4b75-4ca0-b44b-83241bcd33dc.png) <br>
 
 
-## Achievements
+## Achievements.
 
 | Title | Badge | Earnable? | Earned by |
 | --- | --- | --- | --- |
