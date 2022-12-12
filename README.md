@@ -185,7 +185,7 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
   </details>
   
   <details>
-  <summary> <h1> 4.)Yolo Başarımı </summary> </h1>
+  <summary> <h1> 5.)Yolo Başarımı </summary> </h1>
   
   ## Bu rozet için oluşturduğunuz repoya bir kullanıcı atayacaksınız, sonrasında pull request oluşturup inceleyen olarak eklediğiniz kişiyi seçeceksiniz.
   
