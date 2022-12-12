@@ -223,5 +223,6 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 
   ## Dikkat, reviewers kısmında gözükmüyorsam muhtemelen isteğinizi onaylamamışımdır. Bana telegramdan github kullanıcı adınızı iletin Telegramım @enzifiri
 .
+.
 
     </details>
