@@ -162,7 +162,7 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 
    
 <details>
-  <summary> <h1> 4.) Galaxy Brain </summary> </h1>
+  <summary> <h1> 4.) Galaxy Brain Başarımı </summary> </h1>
   
   <img width="148" alt="galaxy-brain-default" src="https://user-images.githubusercontent.com/76253089/206925619-918db619-98d9-4bdc-aeb1-6aad99d7ba35.png">
   
@@ -183,5 +183,45 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 ## Soruları ben tek tek yazıyorum eğer boşta soru kalmamışsa telegramdan bana ulaşın @enzifiri
 
   </details>
-.
-.
+  
+  <details>
+  <summary> <h1> 4.)Yolo Başarımı </summary> </h1>
+  
+  ## Bu rozet için oluşturduğunuz repoya bir kullanıcı atayacaksınız, sonrasında pull request oluşturup inceleyen olarak eklediğiniz kişiyi seçeceksiniz.
+  
+  # Profilinize gidin ve yeni repo oluşturun
+  
+  ![image](https://user-images.githubusercontent.com/76253089/206999008-3cb99795-dffa-4236-9115-ab71acd12304.png)
+
+  # Açılan ekranda aşağıdaki ayarların aynısını yapın ve create tusuna basın.
+  
+  ![image](https://user-images.githubusercontent.com/76253089/206999222-87cea311-54c4-4a44-b89f-89c458e5e633.png)
+
+  # Sırasıyla işaretlediğim yerlere basın
+  
+  ![image](https://user-images.githubusercontent.com/76253089/206999890-4b4f2e6b-4b78-4ab3-9a72-64991da12236.png)
+  
+  # E posta adresimi yazmanız gerekiyor, bu işlem beni sizin reponuzda değişiklik yapabilmemi sağlıyor.
+  
+  ```
+  kriptodostu@gmail.com
+  ```
+  
+![image](https://user-images.githubusercontent.com/76253089/207000155-15560761-0330-40d4-8435-058105bd2b11.png)
+
+  ## Sonra reponuza geri dönün ve kalem butonuna basıp reponuzu düzenleyin. Herhangi bi yere nokta koyun ve aşağı çekin pull request oluşturun.
+
+  ![image](https://user-images.githubusercontent.com/76253089/207000489-86a95a57-7a00-4c70-82dd-8e4da473c7f1.png)
+
+  ## Açılan sayfada sağda Reviewers kısmı var beni oraya ekleyin ve create pull requeste basın 
+  
+  ![image](https://user-images.githubusercontent.com/76253089/207000717-c030e1f1-52f6-4163-b6ce-692463e22af4.png)
+
+  ## Repo sizin olduğu için pull requesti direk merge ederek onaylayabiliyorsunuz. İşlem bu kadardı
+
+  ![image](https://user-images.githubusercontent.com/76253089/207000883-4ac00127-f57e-440f-9d05-02ba2f404fe9.png)
+
+  ## Dikkat, reviewers kısmında gözükmüyorsam muhtemelen isteğinizi onaylamamışımdır. Bana telegramdan github kullanıcı adınızı iletin Telegramım @enzifiri
+
+
+    </details>
