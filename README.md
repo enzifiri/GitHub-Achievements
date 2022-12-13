@@ -222,6 +222,6 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
   ![image](https://user-images.githubusercontent.com/76253089/207000883-4ac00127-f57e-440f-9d05-02ba2f404fe9.png)
 
   ## Dikkat, reviewers kısmında gözükmüyorsam muhtemelen isteğinizi onaylamamışımdır. Bana telegramdan github kullanıcı adınızı iletin Telegramım @enzifiri
-..
+
 
     </details>
