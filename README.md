@@ -1,4 +1,4 @@
-<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır... 🏆 </h1>
+<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır.. 🏆 </h1>
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/76253089/206926135-6fc786a9-2838-4672-8c95-6224b4594868.png)
@@ -16,13 +16,13 @@
 
 <br>
 
-# Merhaba, Öncelikle bu repoyu sağ üstten fork + starlayın... 🥇
+# Merhaba, Öncelikle bu repoyu sağ üstten fork + starlayın. 🥇
 <br>
 
 ![image](https://user-images.githubusercontent.com/76253089/206909805-28666435-4b75-4ca0-b44b-83241bcd33dc.png) <br>
 
 
-## Achievements.
+## Achievements
 
 | Title | Badge | Earnable? | Earned by |
 | --- | --- | --- | --- |
@@ -222,7 +222,6 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
   ![image](https://user-images.githubusercontent.com/76253089/207000883-4ac00127-f57e-440f-9d05-02ba2f404fe9.png)
 
   ## Dikkat, reviewers kısmında gözükmüyorsam muhtemelen isteğinizi onaylamamışımdır. Bana telegramdan github kullanıcı adınızı iletin Telegramım @enzifiri
-.
-.
+
 
     </details>
