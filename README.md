@@ -1,7 +1,7 @@
 <h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır... 🏆 </h1>
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/76253089/206926135-6fc786a9-2838-4672-8c95-6224b4594868.png)
+![image](https://user-images.githubusercontent.com/76253089/207732664-ad09ce9a-d336-4078-83e2-937c8b644ebe.png)
 
 
   
@@ -246,5 +246,4 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
   # Sonrasında sizden ödeme için kart bilgilerini istiyor o bilgileri girdikten sonra son bir işlem kalıyor, aşağıda belirttiğim gibi yapın ve sponsor curla basın işlem bu kadar...
 
 ![image](https://user-images.githubusercontent.com/76253089/207731917-dd355b96-997d-4b39-9370-fa4dcf92af89.png)
-
-     </details>
+  </details>
