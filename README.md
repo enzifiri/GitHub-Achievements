@@ -1,12 +1,18 @@
-<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır 🏆 </h1> .
+<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır... 🏆 </h1>
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/76253089/206920891-e62b2603-4a1c-471a-b36d-57a0a50e5e7e.png)
+![image](https://user-images.githubusercontent.com/76253089/207732664-ad09ce9a-d336-4078-83e2-937c8b644ebe.png)
+
 
   
 </div>
 
-## Github başarımları sayesinde form doldurduğunuz projelerden seçilme ihtimalinizi az da olsa arttırabileceğinizi düşünüyorum. Profilde dikkat çekici duruyor. Bazı başarımları almak gayet kolay, nasıl alabileceğinizi anlatmaya çalısıcam. Öncelikle Başarımları bi inceleyelim.
+## Github başarımları sayesinde form doldurduğunuz projelerden seçilme ihtimalinizi az da olsa arttırabileceğinizi düşünüyorum. Profilde dikkat çekici duruyor. Bazı başarımları almak gayet kolay, nasıl alabileceğinizi anlatmaya çalısıcam. Öncelikle Başarımları bir inceleyelim. Profilde nasıl durduğunu görmek istiyorsanız aşağındaki linke tıklayın. Ayrıca karşılıklı takip yapalım sağdaki contributors kısmındakileri takip edin <3
+
+ <h2> <a href="https://github.com/kriptodostu" target="_blank">Profil Linki</a> </h2>
+ 
+![image](https://user-images.githubusercontent.com/76253089/206989656-f57f282b-85ef-4c08-b632-bdc5ebac3ce9.png)
+
 
 <br>
 
@@ -29,7 +35,7 @@ Starstruck | ![Starstruck Badge](https://github.com/kriptodostu/github-profile-a
 ||| <!-- this empty row is intentional to separate -->
 Galaxy Brain | ![Galaxy Brain Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/galaxy-brain-default.png) | ✔️ | 2 Tane Onaylanmış Cevap
 Pull Shark | ![Pull Shark Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/pull-shark-default.png) | ✔️ | 2 Pull Request Oluşturdun ve Kabul edildi.
-YOLO | ![YOLO Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/yolo-default.png) | ✔️ | Kod düzeltmeden Pull Request oluşturdun ve kabul edildi.
+YOLO | ![YOLO Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/yolo-default.png) | ✔️ | Kendi Reponuza, Pull Requesti inceleyecek birini atayın ve pull request oluşturun.
 ||| <!-- this empty row is intentional to separate -->
 Arctic Code Vault Contributor | ![Arctic Code Vault Contributor Achievement Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/arctic-code-vault-contributor-default.png) | ❌ | Contributed code to repositories in the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
 Public Sponsor | ![GitHub Sponsor Achievement Badge](https://github.com/kriptodostu/github-profile-achievements/blob/main/images/public-sponsor-default.png) | ✔️ | Sponsoring open source work via [GitHub Sponsors](https://github.com/sponsors)
@@ -39,7 +45,7 @@ Mars 2020 Contributor | ![Mars 2020 Helicopter Contributor Achievement Badge](/i
 
 Bazı başarımlara level atlatabiliyorsunuz.
 
-| Title | Tier | Badge | Earned by |
+| Basarim | Tier | Badge | Earned by |
 | --- | --- | --- | --- |
 Pair Extraordinaire x2 | Bronze 🥉 | <img alt="Pair Extraordinaire Bronze Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/pair-extraordinaire-bronze.png" style="width: 180px;"> | Bir kullanıcıyla beraber Pull Request Yap. 10 Kere
 Pair Extraordinaire x3 | Silver 🥈 | <img alt="Pair Extraordinaire Silver Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/pair-extraordinaire-silver.png" style="width: 180px;"> | Bir kullanıcıyla beraber Pull Request Yap. 24 Kere
@@ -48,9 +54,9 @@ Starstruck x2 | Bronze 🥉 | <img alt="Starstruck Bronze Badge" src="https://gi
 Starstruck x3 | Silver 🥈 | <img alt="Starstruck Silver Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/starstruck-silver.png" style="width: 180px;"> | Oluşturduğu repo 512 yıldıza ulaşsın.
 Starstruck x4 | Gold 🥇 | <img alt="Starstruck Gold Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/starstruck-gold.png" style="width: 180px;"> | Oluşturduğu repo 4096 yıldıza ulaşsın.
 ||| <!-- this empty row is intentional to separate -->
-Galaxy Brain x2 | Bronze 🥉 | <img alt="Galaxy Brain Bronze Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/galaxy-brain-bronze.png" style="width: 180px;"> | 8 onaylı cevap
-Galaxy Brain x3 | Silver 🥈 | <img alt="Galaxy Brain Silver Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/galaxy-brain-silver.png" style="width: 180px;"> | 16 onaylı cevap
-Galaxy Brain x4 | Gold 🥇 | <img alt="Galaxy Brain Gold Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/galaxy-brain-gold.png" style="width: 180px;"> | 32 onaylı cevap
+Galaxy Brain x2 | Bronze 🥉 | <img alt="Galaxy Brain Bronze Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/galaxy-brain-bronze.png" style="width: 180px;"> | 8 Soruya cevap verdin ve sorunun sahibi sorunuzu onayladı
+Galaxy Brain x3 | Silver 🥈 | <img alt="Galaxy Brain Silver Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/galaxy-brain-silver.png" style="width: 180px;"> | 16 Soruya cevap verdin ve sorunun sahibi sorunuzu onayladı
+Galaxy Brain x4 | Gold 🥇 | <img alt="Galaxy Brain Gold Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/galaxy-brain-gold.png" style="width: 180px;"> | 32 Soruya cevap verdin ve sorunun sahibi sorunuzu onayladı
 Pull Shark x2 | Bronze 🥉 | <img alt="Pull Shark Bronze Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/pull-shark-bronze.png" style="width: 180px;"> | 16 pull requests merged
 Pull Shark x3 | Silver 🥈 | <img alt="Pull Shark Silver Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/pull-shark-silver.png" style="width: 180px;"> | 128 pull requests merged
 Pull Shark x4 | Gold 🥇 | <img alt="Pull Shark Gold Badge" src="https://github.com/kriptodostu/github-profile-achievements/blob/main/images/tiers/pull-shark-gold.png" style="width: 180px;"> | 1024 pull requests merged
@@ -93,17 +99,16 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 
 # Bu işlemi 2 kere tekrarlayın. Başarım için 2 kere Pull Request oluşturmalısınız.Ben onayladıktan sonra rozetleriniz hesabınıza tanımlanacak. İletişim için tgden yazabilirsiniz @enzifiri
 </details>
-<br>
+
   
   <details>
   <summary> <h1> 2.) Quickdraw Başarımı</summary> </h1>
     <img width="148" alt="quickdraw-default" src="https://user-images.githubusercontent.com/76253089/206917825-c542872e-6413-401d-8076-bbe4786af1cf.png">
     <h3> Bu başarımda da pull request yapmamız gerekiyor ama bu sefer açtığınız pull requesti close diyip kapatacaksınız. </h3>
     
-    <br>
     
  # Shark Başarımındaki gibi bu repoyu forklayın ve forkladığınız repoyu düzenlemeye geçin. Sonrasında pull requesti oluşturun.
-![image](https://user-images.githubusercontent.com/76253089/206917890-c9634194-5848-417f-bd12-fe7e4c70b4f0.png)ü
+![image](https://user-images.githubusercontent.com/76253089/206917890-c9634194-5848-417f-bd12-fe7e4c70b4f0.png)
     
 <br>
     
@@ -131,7 +136,8 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 # Sayfayı aşağı çekin ve Commit changes kısmındaki "Create a new branch .... start a pull requesti seçin ve altta verdiğim komutu yorum kısmına yapıştırın. Propose changes tusuna basın
     
 ```
-    Co-authored-by: @kriptodostu <kriptodostu@gmail.com>
+Co-authored-by: Kral001 <kral16024@gmail.com>
+Co-authored-by: @kriptodostu <kriptodostu@gmail.com>
 ```
     
 ![image](https://user-images.githubusercontent.com/76253089/206920157-95529e70-a1f4-4b67-a37d-741550558aca.png)
@@ -151,6 +157,136 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 # Ayarladıktan sonra Create Pull request diyip açılan ekranda Tekrar pull requeste basın
 ![image](https://user-images.githubusercontent.com/76253089/206915324-eba6b284-b95f-4db5-b109-2083195a061d.png)
 
-# İşlem bu kadardı. Sonrasında pull requestinizin onaylanmasını bekleyin. Sorunuz varsa Rues Community chat üzerinden beni etiketleyerek sorabilirsiniz @enzifiri
+# İşlem bu kadardı.. Sonrasında pull requestinizin onaylanmasını bekleyin. Sorunuz varsa Rues Community chat üzerinden beni etiketleyerek sorabilirsiniz @enzifiri
+</details>
+
+   
+<details>
+  <summary> <h1> 4.) Galaxy Brain Başarımı </summary> </h1>
+  
+  <img width="148" alt="galaxy-brain-default" src="https://user-images.githubusercontent.com/76253089/206925619-918db619-98d9-4bdc-aeb1-6aad99d7ba35.png">
+  
+<br>
+  
+  ## Bu rozet için 2 adet soruya cevap verip, soru sahibinin cevabınızı onaylaması gerekmektedir.
+
+## Öncelikle alttaki yazıya tıklayın açılan sayfada cevaplanmamış herhangi bi soruya girin
+<h2> <a href="https://github.com/kriptodostu/Github-Basarimlar/discussions" target="_blank">Buraya tıklayın!</a> </h2>
+  
+![image](https://user-images.githubusercontent.com/76253089/206925855-b905faa2-b59b-4ac8-948d-2b3023139d13.png)
+
+## Sonra herhangi bi yazı yazıp comment tusuna basın
+![image](https://user-images.githubusercontent.com/76253089/206925984-673f1913-ff44-4421-b7cf-d77a13a4db89.png)
+
+## Rozet için 2 soruyu yanıtlamanız gerekiyor. Aynı soruya 2 kere cevap veremiyorsunuz. Geri dönüp farklı soruyu yanıtlayın.
+
+## Soruları ben tek tek yazıyorum eğer boşta soru kalmamışsa telegramdan bana ulaşın @enzifiri
+
+  </details>
+  
+  <details>
+  <summary> <h1> 5.)Yolo Başarımı </summary> </h1>
+    
+![image](https://user-images.githubusercontent.com/76253089/207735460-88ac55e1-a1fa-4300-98bf-2bb7a51b3d5d.png)
+    
+  ## Bu rozet için oluşturduğunuz repoya bir kullanıcı atayacaksınız, sonrasında pull request oluşturup inceleyen olarak eklediğiniz kişiyi seçeceksiniz.
+  
+  # Profilinize gidin ve yeni repo oluşturun
+  
+  ![image](https://user-images.githubusercontent.com/76253089/206999008-3cb99795-dffa-4236-9115-ab71acd12304.png)
+
+  # Açılan ekranda aşağıdaki ayarların aynısını yapın ve create tusuna basın.
+  
+  ![image](https://user-images.githubusercontent.com/76253089/206999222-87cea311-54c4-4a44-b89f-89c458e5e633.png)
+
+  # Sırasıyla işaretlediğim yerlere basın
+  
+  ![image](https://user-images.githubusercontent.com/76253089/206999890-4b4f2e6b-4b78-4ab3-9a72-64991da12236.png)
+  
+  # E posta adresimi yazmanız gerekiyor, bu işlem beni sizin reponuzda değişiklik yapabilmemi sağlıyor.
+  
+  ```
+  kriptodostu@gmail.com
+  ```
+  
+![image](https://user-images.githubusercontent.com/76253089/207000155-15560761-0330-40d4-8435-058105bd2b11.png)
+
+  ## Sonra reponuza geri dönün ve kalem butonuna basıp reponuzu düzenleyin. Herhangi bi yere nokta koyun ve aşağı çekin pull request oluşturun.
+
+  ![image](https://user-images.githubusercontent.com/76253089/207000489-86a95a57-7a00-4c70-82dd-8e4da473c7f1.png)
+
+  ## Açılan sayfada sağda Reviewers kısmı var beni oraya ekleyin ve create pull requeste basın 
+  
+  ![image](https://user-images.githubusercontent.com/76253089/207000717-c030e1f1-52f6-4163-b6ce-692463e22af4.png)
+
+  ## Repo sizin olduğu için pull requesti direk merge ederek onaylayabiliyorsunuz. İşlem bu kadardı
+
+  ![image](https://user-images.githubusercontent.com/76253089/207000883-4ac00127-f57e-440f-9d05-02ba2f404fe9.png)
+
+  ## Dikkat, reviewers kısmında gözükmüyorsam muhtemelen isteğinizi onaylamamışımdır. Bana telegramdan github kullanıcı adınızı iletin Telegramım @enzifiri
+</details>
+
+  
+
+ <details>
+  <summary> <h1> 6. ÜCRETLİ ROZET! 1$ (Sponsor Başarımı) </summary> </h1>
+   
+![image](https://user-images.githubusercontent.com/76253089/207735554-205d7a96-e594-4975-b14f-fb588abd3aa2.png)
+
+  # Arkadaşlar bu rozeti alabilmek için açık kaynak kodlu bir projeye (profile de olabilir ama projeyi öneririm) sponsor olmanız gerekiyor, ben bunu curl projesine 1 dolar yatırarak yaptım dilerseniz siz de hem rozeti hem de + sponsoring kısmını açabilirsiniz. Aşağıdan profilimi inceleyebilirsiniz.
+
+  ![image](https://user-images.githubusercontent.com/76253089/207731053-67a9c855-922c-431f-95b1-ead64cb79129.png)
+
+  ![image](https://user-images.githubusercontent.com/76253089/207730963-fb2f906f-c85c-4679-8b63-a832f22e2fec.png)
+  
+  # Curl projesinin sponsor kısmına git, sponsor tuşuna tıklayacaksınız aşağıdakı bağlantıdan direk gidebilirsiniz
+  
+  <h2> <a href="https://github.com/sponsors/curl?frequency=one-time&" target="_blank">Buraya tıklayın!</a> </h2>
+  
+  # Select a tier kısmının One-Time olduğundan emin olun ve oraya 1$ yazın, sonra select tusuna tıklayın.
+  
+  ![image](https://user-images.githubusercontent.com/76253089/207731463-3aa88971-4b39-458e-bda7-87020f122fe4.png)
+
+  # Sonrasında sizden ödeme için kart bilgilerini istiyor o bilgileri girdikten sonra son bir işlem kalıyor, aşağıda belirttiğim gibi yapın ve sponsor curla basın işlem bu kadar...
+
+![image](https://user-images.githubusercontent.com/76253089/207731917-dd355b96-997d-4b39-9370-fa4dcf92af89.png)
+   
+</details>
+
+<br>
+    
+<br>
+    
+<h1> EKSTRA ÖZELLEŞTİRMELER / Developer Program Member Ünvanı ve Organizasyonlar </h1>
+
+<details>
+      
+<summary> <h1> 1. Developer Program Member Ünvanı </summary> </h1>
+  
+![image](https://user-images.githubusercontent.com/76253089/207735766-2ebcc4dd-00ac-43d7-9ff8-a33323c883a4.png)
+
+<br>
+  
+## Merhaba bu ünvanı almak için mail + websitenizin olması gerekiyor. Benim websitemi referans gösterebilirsiniz. Aşağıdaki linke gidin ve işaretlediğim kısıma basın.
+
+![image](https://user-images.githubusercontent.com/76253089/207733337-2850692d-0617-4880-8120-81ec735e40de.png)
+ 
+<br>
+  
+## Açılan kısımda kayıt ekranı açılacak işaretlediğim alanda Email + Website istiyor, Email adresinize kendi adresinizi website kısmına aşağıdaki siteyi girin
+      
+```
+https://enzifiri.me/
+```
+
+![image](https://user-images.githubusercontent.com/76253089/207736042-f7b4444d-17f2-44c7-acf1-42851c861e10.png)
+      
+<br>
+  
+## Bilgileri girdikten sonra Register for the GitHub Developer Program butonuna basın ve ünvanınızı alın
+
+![image](https://user-images.githubusercontent.com/76253089/207735976-b677c8e2-92c0-4572-ba65-ec7b5cdf235d.png)
+
+      
 </details>
 
