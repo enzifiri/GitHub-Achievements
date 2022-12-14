@@ -186,7 +186,9 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
   
   <details>
   <summary> <h1> 5.)Yolo Başarımı </summary> </h1>
-  
+    
+![image](https://user-images.githubusercontent.com/76253089/207735460-88ac55e1-a1fa-4300-98bf-2bb7a51b3d5d.png)
+    
   ## Bu rozet için oluşturduğunuz repoya bir kullanıcı atayacaksınız, sonrasında pull request oluşturup inceleyen olarak eklediğiniz kişiyi seçeceksiniz.
   
   # Profilinize gidin ve yeni repo oluşturun
@@ -228,7 +230,9 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
 
  <details>
   <summary> <h1> 6. ÜCRETLİ ROZET! 1$ (Sponsor Başarımı) </summary> </h1>
-  
+   
+![image](https://user-images.githubusercontent.com/76253089/207735554-205d7a96-e594-4975-b14f-fb588abd3aa2.png)
+
   # Arkadaşlar bu rozeti alabilmek için açık kaynak kodlu bir projeye (profile de olabilir ama projeyi öneririm) sponsor olmanız gerekiyor, ben bunu curl projesine 1 dolar yatırarak yaptım dilerseniz siz de hem rozeti hem de + sponsoring kısmını açabilirsiniz. Aşağıdan profilimi inceleyebilirsiniz.
 
   ![image](https://user-images.githubusercontent.com/76253089/207731053-67a9c855-922c-431f-95b1-ead64cb79129.png)
@@ -246,4 +250,43 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
   # Sonrasında sizden ödeme için kart bilgilerini istiyor o bilgileri girdikten sonra son bir işlem kalıyor, aşağıda belirttiğim gibi yapın ve sponsor curla basın işlem bu kadar...
 
 ![image](https://user-images.githubusercontent.com/76253089/207731917-dd355b96-997d-4b39-9370-fa4dcf92af89.png)
-  </details>
+   
+</details>
+
+<br>
+    
+<br>
+    
+<h1> EKSTRA ÖZELLEŞTİRMELER / Developer Program Member Ünvanı ve Organizasyonlar </h1>
+
+<details>
+      
+<summary> <h1> 1. Developer Program Member Ünvanı </summary> </h1>
+  
+![image](https://user-images.githubusercontent.com/76253089/207735766-2ebcc4dd-00ac-43d7-9ff8-a33323c883a4.png)
+
+<br>
+  
+## Merhaba bu ünvanı almak için mail + websitenizin olması gerekiyor. Benim websitemi referans gösterebilirsiniz. Aşağıdaki linke gidin ve işaretlediğim kısıma basın.
+
+![image](https://user-images.githubusercontent.com/76253089/207733337-2850692d-0617-4880-8120-81ec735e40de.png)
+ 
+<br>
+  
+## Açılan kısımda kayıt ekranı açılacak işaretlediğim alanda Email + Website istiyor, Email adresinize kendi adresinizi website kısmına aşağıdaki siteyi girin
+      
+```
+https://enzifiri.me/
+```
+
+![image](https://user-images.githubusercontent.com/76253089/207736042-f7b4444d-17f2-44c7-acf1-42851c861e10.png)
+      
+<br>
+  
+## Bilgileri girdikten sonra Register for the GitHub Developer Program butonuna basın ve ünvanınızı alın
+
+![image](https://user-images.githubusercontent.com/76253089/207735976-b677c8e2-92c0-4572-ba65-ec7b5cdf235d.png)
+
+      
+</details>
+
