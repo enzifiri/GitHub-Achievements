@@ -222,6 +222,29 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
   ![image](https://user-images.githubusercontent.com/76253089/207000883-4ac00127-f57e-440f-9d05-02ba2f404fe9.png)
 
   ## Dikkat, reviewers kısmında gözükmüyorsam muhtemelen isteğinizi onaylamamışımdır. Bana telegramdan github kullanıcı adınızı iletin Telegramım @enzifiri
+</details>
 
+  
 
-    </details>
+ <details>
+  <summary> <h1> 6. ÜCRETLİ ROZET! 1$ (Sponsor Başarımı) </summary> </h1>
+  
+  # Arkadaşlar bu rozeti alabilmek için açık kaynak kodlu bir projeye (profile de olabilir ama projeyi öneririm) sponsor olmanız gerekiyor, ben bunu curl projesine 1 dolar yatırarak yaptım dilerseniz siz de hem rozeti hem de + sponsoring kısmını açabilirsiniz. Aşağıdan profilimi inceleyebilirsiniz.
+
+  ![image](https://user-images.githubusercontent.com/76253089/207731053-67a9c855-922c-431f-95b1-ead64cb79129.png)
+
+  ![image](https://user-images.githubusercontent.com/76253089/207730963-fb2f906f-c85c-4679-8b63-a832f22e2fec.png)
+  
+  # Curl projesinin sponsor kısmına git, sponsor tuşuna tıklayacaksınız aşağıdakı bağlantıdan direk gidebilirsiniz
+  
+  <h2> <a href="https://github.com/sponsors/curl?frequency=one-time&" target="_blank">Buraya tıklayın!</a> </h2>
+  
+  # Select a tier kısmının One-Time olduğundan emin olun ve oraya 1$ yazın, sonra select tusuna tıklayın.
+  
+  ![image](https://user-images.githubusercontent.com/76253089/207731463-3aa88971-4b39-458e-bda7-87020f122fe4.png)
+
+  # Sonrasında sizden ödeme için kart bilgilerini istiyor o bilgileri girdikten sonra son bir işlem kalıyor, aşağıda belirttiğim gibi yapın ve sponsor curla basın işlem bu kadar...
+
+![image](https://user-images.githubusercontent.com/76253089/207731917-dd355b96-997d-4b39-9370-fa4dcf92af89.png)
+
+     </details>
