@@ -1,4 +1,4 @@
-<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır...... 🏆 </h1>
+<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır... 🏆 </h1>
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/76253089/207732664-ad09ce9a-d336-4078-83e2-937c8b644ebe.png)
@@ -206,7 +206,7 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
   # E posta adresimi yazmanız gerekiyor, bu işlem beni sizin reponuzda değişiklik yapabilmemi sağlıyor.
   
   ```
-  kriptodostu1@gmail.com
+  kriptodostu@gmail.com
   ```
   
 ![image](https://user-images.githubusercontent.com/76253089/207000155-15560761-0330-40d4-8435-058105bd2b11.png)
