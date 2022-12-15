@@ -245,6 +245,8 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
   
 ## Merhaba bu ünvanı almak için mail + websitenizin olması gerekiyor. Benim websitemi referans gösterebilirsiniz. Aşağıdaki linke gidin ve işaretlediğim kısıma basın.
 
+ <h2> <a href="https://docs.github.com/en/developers/overview/github-developer-program" target="_blank">Site Linki</a> </h2>
+
 ![image](https://user-images.githubusercontent.com/76253089/207733337-2850692d-0617-4880-8120-81ec735e40de.png)
  
 <br>
