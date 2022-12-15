@@ -206,7 +206,7 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
   # E posta adresimi yazmanız gerekiyor, bu işlem beni sizin reponuzda değişiklik yapabilmemi sağlıyor.
   
   ```
-  kriptodostu@gmail.com
+  kriptodostu1@gmail.com
   ```
   
 ![image](https://user-images.githubusercontent.com/76253089/207000155-15560761-0330-40d4-8435-058105bd2b11.png)
