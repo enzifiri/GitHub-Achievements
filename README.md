@@ -7,7 +7,7 @@
   
 </div>
 
-## Github başarımları sayesinde form doldurduğunuz projelerden seçilme ihtimalinizi az da olsa arttırabileceğinizi düşünüyorum. Profilde dikkat çekici duruyor. Bazı başarımları almak gayet kolay, nasıl alabileceğinizi anlatmaya çalısıcam. Öncelikle Başarımları bir inceleyelim. Profilde nasıl durduğunu görmek istiyorsanız aşağındaki linke tıklayın. Ayrıca karşılıklı takip yapalım sağdaki contributors kısmındakileri takip edin <3
+## Github başarımları sayesinde form doldurduğunuz projelerden seçilme ihtimalinizi az da olsa arttırabileceğinizi düşünüyorum. Profilde dikkat çekici duruyor. Bazı başarımları almak gayet kolay, nasıl alabileceğinizi anlatmaya çalısıcam. Öncelikle Başarımları bir inceleyelim. Profilde nasıl durduğunu görmek istiyorsanız aşağındaki linke tıklayın. Ayrıca karşılıklı takip yapalım sağdaki contributors kısmındakileri takip edin ❤️
 
  <h2> <a href="https://github.com/kriptodostu" target="_blank">Profil Linki</a> </h2>
  
