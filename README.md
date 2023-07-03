@@ -277,7 +277,7 @@ https://enzifiri.me/
 
 ## Şuan kurduğum 6 organizasyon var, bunlara dahil olabilmek için aşağıya github e-mail adresinizi bırakın.
 
-  <h2> <a href="https://forms.gle/PEPTefozft7rRkW99" target="_blank">Buraya tıklayın!</a> </h2>
+  <h2>  <a href="https://forms.gle/PEPTefozft7rRkW99" target="_blank">Buraya tıklayın!</a> </h2>
 
 </details>
 
