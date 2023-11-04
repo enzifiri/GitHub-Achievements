@@ -1,1 +1,1 @@
-sadece rozet kazanmak icin.
+sadece rozet kazanmak icin. lutfen kabul etmeyin.
