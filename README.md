@@ -1,4 +1,4 @@
-<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır... 🏆...
+<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır... 🏆..
 TEKRAR AKTİF EDİLDİ GÖREVLERİ YAPABİLİRSİNİZ 11.07.2023 SORULAR KISMINDA YENI SORULAR VAR 
 Repo 126 Yıldıza ulaştığında Rozet kazanıcam destek olursanız sevinirim kolay gelsin <3 </h1>
 <div align="center">
