@@ -1,29 +1,27 @@
-<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır..... 🏆.....
 
-TEKRAR AKTİF EDİLDİ GÖREVLERİ YAPABİLİRSİNİZ 11.07.2023 SORULAR KISMINDA YENI SORULAR VAR 
-Repo 126 Yıldıza ulaştığında Rozet kazanıcam destek olursanız sevinirim kolay gelsin <3 </h1>
+<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır... 🏆.
+ </h1>
+
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/76253089/207732664-ad09ce9a-d336-4078-83e2-937c8b644ebe.png)
 
 
   
-</div>
 
-## Github başarımları sayesinde form doldurduğunuz projelerden seçilme ihtimalinizi az da olsa arttırabileceğinizi düşünüyorum. Profilde dikkat çekici duruyor. Bazı başarımları almak gayet kolay, nasıl alabileceğinizi anlatmaya çalısıcam. Öncelikle Başarımları bir inceleyelim. Profilde nasıl durduğunu görmek istiyorsanız aşağındaki linke tıklayın. Ayrıca karşılıklı takip yapalım sağdaki contributors kısmındakileri takip edin. <3
 
- <h2> <a href="https://github.com/kriptodostu" target="_blank">Profil Linki</a> </h2>
- 
-![image](https://user-images.githubusercontent.com/76253089/206989656-f57f282b-85ef-4c08-b632-bdc5ebac3ce9.png)
+## Github başarımları sayesinde form doldurduğunuz projelerden seçilme ihtimalinizi az da olsa arttırabileceğinizi düşünüyorum. Profilde dikkat çekici duruyor. Bazı başarımları almak gayet kolay, nasil alabileceğinizi bu repoda detaylı anlatıyorum.
+
 
 
 <br>
 
-# Merhaba, Öncelikle bu repoyu sağ üstten fork + starlayın. 🥇
+### Merhaba, Öncelikle bu repoyu sağ üstten fork + starlayın. 🥇
 <br>
 
 ![image](https://user-images.githubusercontent.com/76253089/206909805-28666435-4b75-4ca0-b44b-83241bcd33dc.png) <br>
 
+</div>
 
 ## Achievements
 
