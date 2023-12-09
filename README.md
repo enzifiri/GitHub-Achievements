@@ -276,9 +276,7 @@ https://enzifiri.me/
 
 ![image](https://user-images.githubusercontent.com/76253089/207739584-a83b6ba5-7067-49b1-a13c-325b7c005039.png)
 
-## Şuan kurduğum 6 organizasyon var, bunlara dahil olabilmek için aşağıya github e-mail adresinizi bırakın.
-
-  <h2>  <a href="https://forms.gle/PEPTefozft7rRkW99" target="_blank">Buraya tıklayın!</a> </h2>
+## Organizasyonları kendiniz kurabilirsiniz, detayları unuttum (12.09.2023)
 
 </details>
 
