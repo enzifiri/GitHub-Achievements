@@ -279,7 +279,7 @@ https://enzifiri.me/
 
 ![image](https://user-images.githubusercontent.com/76253089/207739584-a83b6ba5-7067-49b1-a13c-325b7c005039.png)
 
-## Organizasyonları kendiniz kurabilirsiniz, detayları unuttum (12.09.2023).
+## Organizasyonları kendiniz kurabilirsiniz, detayları unuttum (12.09.2023)
 
 </details>
 
