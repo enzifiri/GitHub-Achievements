@@ -1,2 +1,2 @@
 Task 5: Writing a random number
-22578
+11077
