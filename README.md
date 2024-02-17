@@ -149,7 +149,8 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
   
   ## Bu rozet için 2 adet soruya cevap verip, soru sahibinin cevabınızı onaylaması gerekmektedir.
 
-## Öncelikle alttaki yazıya tıklayın açılan sayfada cevaplanmamış herhangi bi soruya girin
+## Öncelikle alttaki yazıya tıklayın açılan sayfada yanında gri tik olan bi soruya girin (yanında yeşik olanlar onaylanmış onlara atsanızda rozet alamazsınız.)
+## Eğer boşta soru yoksa telegramdan bana ulaşın yeni bi soru oluşturacağım @enzifiri
 <h2> <a href="https://github.com/kriptodostu/Github-Basarimlar/discussions" target="_blank">Buraya tıklayın!</a> </h2>
   
 ![image](https://user-images.githubusercontent.com/76253089/206925855-b905faa2-b59b-4ac8-948d-2b3023139d13.png)
