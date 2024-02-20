@@ -1,4 +1,4 @@
-<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır... (18.02.2024)
+<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır... (18.02.2024).
   
  </h1>
 
