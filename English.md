@@ -2,7 +2,7 @@
   
    [TURKISH GUIDE](https://github.com/enzifiri/GitHub-Achievements/blob/main/Turkish.md)
    [ESPANOL GUIDE](https://github.com/enzifiri/GitHub-Achievements/blob/main/Espanol.md)
-   [ENGLISH GUIDE](https://github.com/enzifiri/GitHub-Achievements/blob/main/README.md)
+   [ENGLISH GUIDE](https://github.com/enzifiri/GitHub-Achievements/blob/main/English.md)
    [GERMANY GUIDE](https://github.com/enzifiri/GitHub-Achievements/blob/main/German.md)
    
  </h1>
