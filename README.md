@@ -1,8 +1,8 @@
-<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır... (18.02.2024)
+<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır?.  
   
+   [TURKISH GUIDE](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) 
+   
  </h1>
-
-
 
 <div align="center">
   
@@ -13,8 +13,6 @@
 
 
 ## Github başarımları sayesinde form doldurduğunuz projelerden seçilme ihtimalinizi az da olsa arttırabileceğinizi düşünüyorum. Profilde dikkat çekici duruyor. Bazı başarımları almak gayet kolay, nasil alabileceğinizi bu repoda detaylı anlatıyorum.
-
-
 
 <br>
 
