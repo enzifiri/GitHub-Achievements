@@ -1,6 +1,9 @@
 <h1 align="center">Cómo conseguir insignias de perfil de GitHub.
   
-   [GUÍA TURCA](https://github.com/enzifiri/GitHub-Achievements-TR/blob/main/READMETURKISH.md)
+   [TURKISH GUIDE](https://github.com/enzifiri/GitHub-Achievements/blob/main/Turkish.md) <br>
+   [ESPANOL GUIDE](https://github.com/enzifiri/GitHub-Achievements/blob/main/Espanol.md) <br>
+   [ENGLISH GUIDE](https://github.com/enzifiri/GitHub-Achievements/blob/main/English.md) <br>
+   [GERMANY GUIDE](https://github.com/enzifiri/GitHub-Achievements/blob/main/German.md) <br>
    
  </h1>
 
