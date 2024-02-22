@@ -1,6 +1,6 @@
 <h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır?.  
   
-   [TURKISH GUIDE](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) 
+   [TURKISH GUIDE](https://github.com/enzifiri/GitHub-Achievements-TR/blob/main/READMETURKISH.md) 
    
  </h1>
 
