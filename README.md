@@ -1,6 +1,6 @@
-<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır?.  
+<h1 align="center">How to Get GitHub Profile Badges.
   
-   [TURKISH GUIDE](https://github.com/enzifiri/GitHub-Achievements-TR/blob/main/READMETURKISH.md) 
+   [TURKISH GUIDE](https://github.com/enzifiri/GitHub-Achievements-TR/blob/main/READMETURKISH.md)
    
  </h1>
 
@@ -12,11 +12,11 @@
   
 
 
-## Github başarımları sayesinde form doldurduğunuz projelerden seçilme ihtimalinizi az da olsa arttırabileceğinizi düşünüyorum. Profilde dikkat çekici duruyor. Bazı başarımları almak gayet kolay, nasil alabileceğinizi bu repoda detaylı anlatıyorum.
+## Github achievements I think you can slightly increase your chances of being selected for the projects you fill out the form for. It looks attractive in the profile. Some achievements are very easy to get, I explain in detail how to get them in this repo.
 
 <br>
 
-### Merhaba, Öncelikle bu repoyu sağ üstten fork + starlayın. 🥇
+#### Hello, First fork + star this repo from the top right. 🥇
 <br>
 
 ![image](https://user-images.githubusercontent.com/76253089/206909805-28666435-4b75-4ca0-b44b-83241bcd33dc.png) <br>
@@ -25,92 +25,92 @@
 
 ## Achievements
 
-| Badge | Name | How to get | Needed amount | 
+| Badge | Name | How to get | Needed amount |
 | :-: | :-: | :-: | :-: |
-| ![Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | Heart On Your Sleeve | (???) | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="60px"></td>   <td><img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-bronze.png" width="60px" align="center"></td>  <td><img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-silver.png" width="60px"></td>  <td><img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">(?)</td>  <td align="center">(?)</td>  <td align="center">(?)</td>  <td align="center">(?)</td>  </tr>   </tbody>  </table> |
-| ![Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | Open Sourcerer | (???) | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="60px"></td>   <td><img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-bronze.png" width="60px" align="center"></td>  <td><img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-silver.png" width="60px"></td>  <td><img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">(?)</td>  <td align="center">(?)</td>  <td align="center">(?)</td>  <td align="center">(?)</td>  </tr>   </tbody>  </table> |
-| ![Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png)                 | Starstruck         | Oluşturduğunuz repo 16 yıldız alsın. | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60px"></td>   <td><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png" width="60px" align="center"></td>  <td><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png" width="60px"></td>  <td><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">16</td>  <td align="center">128</td>  <td align="center">512</td>  <td align="center">4096</td>  </tr>   </tbody>  </table>      |
-| ![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)                 | Quickdraw        | <br>(Oluşturduğun pull requesti 5 dakika içinde kapat) | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
-| ![Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png)     | Pair Extraordinaire  | Biri ile birlikte pull request oluştur | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60px"></td>   <td><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png" width="60px" align="center"></td>  <td><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png" width="60px"></td>  <td><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">1</td>  <td align="center">10</td>  <td align="center">24</td>  <td align="center">48</td>  </tr>   </tbody>  </table>      |
-| ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)     | Pull Shark  | Pull request oluştur ve kabul edilsin. | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60px"></td>   <td><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="60px" align="center"></td>  <td><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png" width="60px"></td>  <td><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">2</td>  <td align="center">16</td>  <td align="center">128</td>  <td align="center">1024</td>  </tr>   </tbody>  </table>      |
-| ![Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) | Galaxy Brain | Soru cevapla ve cevabın onaylansın.<br> | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="60px"></td>  <td><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png" width="60px" align="center"></td>  <td><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png" width="60px"></td>  <td><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">2</td> <td align="center">8</td>  <td align="center">16</td>  <td align="center">32</td>  </tr>   </tbody>  </table>
-| ![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)                 | YOLO        | İnceleme olmadan bir çekme isteği birleştirildi | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
-| ![Public Sponsor](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png)                 | Public Sponsor        | Açık kaynak kodlu projelere sponsor ol [GitHub Sponsors](https://github.com/sponsors) | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
+| ![Heart On Your Sleeve](https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png) | Heart On Your Sleeve | (????) | <table> <thead> <tr> <th> <th>DEFAULT</th> <th>BRONZE</th> <th>SILVER</th> <th>GOLD</th> </tr> </thead> <tbody> <tr> <tr> <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="60px"></td> <td><img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-bronze.png" width="60px" align="center"></td> <td><img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-silver.png" width="60px"></td> <td><img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-gold.png" width="60px"></td> </tr> <tr> <td align="center">(?)</td> <td align="center">(?)</td> <td align="center">(?)</td> <td align="center">(?)</td> <td align="center">(?)</td> </tr> </tbody> </table> |
+| ![Open Sourcerer](https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png) | Open Sourcerer | (????) | <table> <thead> <tr> <tr> <th>DEFAULT</th> <th>BRONZE</th> <th>SILVER</th> <th>GOLD</th> </tr> </thead> <tbody> <tr> <tr> <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="60px"></td> <td><img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-bronze.png" width="60px" align="center"></td> <td><img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-silver.png" width="60px"></td> <td><img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-gold.png" width="60px"></td> </tr> <tr> <td align="center">(?)</td> <td align="center">(?)</td> <td align="center">(?)</td> <td align="center">(?)</td> <td align="center">(?)</td> </tr> </tbody> </table> |
+| ![Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) | Starstruck | The repo you create gets 16 stars. | <table> <thead> <thead> <tr> <th>DEFAULT</th> <th>BRONZE</th> <th>SILVER</th> <th>GOLD</th> </tr> </thead> <tbody> <tr> <tbody> <tr> <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="60px"></td> <td><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-bronze.png" width="60px" align="center"></td> <td><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-silver.png" width="60px"></td> <td><img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png" width="60px"></td> </tr> <tr> <td align="center">16</td> <td align="center">128</td> <td align="center">512</td> <td align="center">4096</td> </tr> </tbody> </table> |
+| ![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png) | Quickdraw | <br>(Close the pull request you created in 5 minutes) | <table> <thead> <thead> <tr> <th>DEFAULT</th> </tr> </thead> <tbody> <tr> <td><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60px"></td> </tr> <tr> <td align="center">1</td> </tr> </tbody> </table> |
+| ![Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) | Pair Extraordinaire | Create a pull request with someone | <table> <thead> <thead> <tr> <th>DEFAULT</th> <th>BRONZE</th> <th>SILVER</th> <th>GOLD</th> </tr> </thead> <tbody> <tr> <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="60px"></td> <td><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png" width="60px" align="center"></td> <td><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-silver.png" width="60px"></td> <td><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-gold.png" width="60px"></td> </tr> <tr> <td align="center">1</td> <td align="center">10</td> <td align="center">24</td> <td align="center">48</td> </tr> </tbody> </table> |
+| ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png) | Pull Shark | Create Pull request and get it accepted. | <table> <thead> <tr> <th> <th>DEFAULT</th> <th>BRONZE</th> <th>SILVER</th> <th>GOLD</th> </tr> </thead> <tbody> <tr> <tr> <td align="center"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60px"></td> <td><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="60px" align="center"></td> <td><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-silver.png" width="60px"></td> <td><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-gold.png" width="60px"></td> </tr> <tr> <td align="center">2</td> <td align="center">16</td> <td align="center">128</td> <td align="center">1024</td> </tr> </tbody> </table> |
+| ![Galaxy Brain](https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png) | Galaxy Brain | Answer a question and get your answer approved.<br> | <table> <thead> <tr> <th>DEFAULT</th> <th>BRONZE</th> <th>SILVER</th> <th>GOLD</th> </tr> </thead> <tbody> <tr> <td><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="60px"></td> <td><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-bronze.png" width="60px" align="center"></td> <td><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-silver.png" width="60px"></td> <td><img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-gold.png" width="60px"></td> </tr> <tr> <td align="center">2</td> <td align="center">8</td> <td align="center">16</td> <td align="center">32</td> </tr> </tbody> </table>
+| ![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png) | YOLO | Merged a pull request without review | <table> <thead> <tr> <th>DEFAULT</th> </tr> </thead> <tbody> <tr> <td><img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60px"></td> </tr> <tr> <td align="center">1</td> </td> </tr> </tbody> </table> |
+| ![Public Sponsor](https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png) | Public Sponsor | Sponsor open source projects [GitHub Sponsors](https://github.com/sponsors) | <table> <thead> <tr> <th>DEFAULT</th> </tr> </thead> </thead> <tbody> <tr> <tr> <td><img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="60px"></td> </tr> <tr> <td align="center">1</td> </tr> </tbody> </table> |
 
 <br>
 <br>
 
-# Üstteki başarımları inceleyebilirsiniz. Ben burda yapılabilecek olanları anlattım diğerlerini internette aratarak yapabilirsiniz.
+# You can examine the achievements above. I have explained what can be done here, you can do the others by searching the internet.
 
-# Şimdi Nasıl alacağımıza geçelim. 
+# Now let's move on to how to get it.
 <details>
-  <summary> <h1> 1.) Pull Shark Başarımı</summary> </h1>
+  <summary> <h1>1.) Pull Shark Achievement</summary> </h1>
   
 ![image](https://user-images.githubusercontent.com/76253089/206911235-310c096c-3a02-4373-9838-88aab91194e0.png)
-<h3> Bu başarım için 2 kere Pull Request oluşturmanız gerekiyor. Bu repo üzerinden işlemleri gerçekleştiricez.
+<h3> You need to create 2 Pull Requests for this achievement. We will perform operations through this repo.
 
-# Önce Bu repoyu sağ üstten forklayın, Sonra profilinize gidip Repositories kısmından Github-Basarimlar reposuna girin.</h3>
+# First fork this repo from the top right, then go to your profile, go to Repositories and enter the Github-Basarimlar repo.</h3>
 
-# İşaretlediğim kalem işaretine tıklayıp düzenleme aşamasına gelin
+# Click on the pencil mark and go to the editing stage
 ![image](https://user-images.githubusercontent.com/76253089/206911370-11792ad3-9289-4719-b2db-e8ed7774288d.png)
 
-# İşaretlediğim yazının sonuna nokta koyun (.) 
+# Put a period at the end of the text I marked (.)
 ![image](https://user-images.githubusercontent.com/76253089/206911480-6ee927f2-0fa7-4d6f-aeea-256d47096e28.png)
 
-# Sayfayı aşağı çekin ve Commit changes kısmındaki "Create a new branch .... start a pull requesti seçin ve Propose changes tusuna basın
+# Pull down the page and under Commit changes select "Create a new branch .... start a pull request and press Propose changes
 ![image](https://user-images.githubusercontent.com/76253089/206911522-a8f4a78e-5ff3-4311-b8fa-bbd444cbf64f.png)
 
-# Burda ise direk Create Pull Requeste basın
+# Here, directly press Create Pull Request
 ![image](https://user-images.githubusercontent.com/76253089/206911691-2684f01f-4cbf-457d-b6bf-a8ee0a404e7f.png)
 
-# Şimdi oluşturduğunuz Pull Requesti bana iletmeniz gerekiyor alttakine tıklayın
- <h2> <a href="https://github.com/kriptodostu/Github-Basarimlar/compare/" target="_blank">Buraya tıklayın!</a> </h2>
+# Now you need to send me the Pull Request you created click below
+ <h2> <a href="https://github.com/kriptodostu/Github-Basarimlar/compare/" target="_blank">Click here!</a> </h2>
 <br>
 
-# Buraya dikkat edin Bu şekilde olması gerekiyor onu ayarlayın <br>
+# Pay attention here It needs to be this way, set it up <br>
   ![image](https://user-images.githubusercontent.com/76253089/206920394-3b685ebc-2ada-4775-826a-86216fd82576.png)
-base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-basarimlar compare: forkismi-patch-1
+base reposity: kriptodostu/Github-Basarimlar base: main <- kullanıcıiciadin/Github-basarimlar compare: forkismi-patch-1
 ![image](https://user-images.githubusercontent.com/76253089/206915095-cc3bbff1-d5d0-40bf-bfb2-8d2f9c2ae7ec.png)
-# Ayarladıktan sonra Create Pull request diyip açılan ekranda Tekrar pull requeste basın
+# After setting, say Create Pull request and press pull request again on the screen that opens
 ![image](https://user-images.githubusercontent.com/76253089/206915324-eba6b284-b95f-4db5-b109-2083195a061d.png)
 
-# Bu işlemi 2 kere tekrarlayın. Başarım için 2 kere Pull Request oluşturmalısınız.Ben onayladıktan sonra rozetleriniz hesabınıza tanımlanacak. İletişim için tgden yazabilirsiniz @enzifiri
+# Repeat this process 2 times. You must create Pull Request 2 times for my success. After I approve, your badges will be defined to your account. You can write tgden for contact @enzifiri
 </details>
 
   
   <details>
-  <summary> <h1> 2.) Quickdraw Başarımı</summary> </h1>
+  <summary> <h1> 2.) Quickdraw Success</summary> </h1>
     <img width="148" alt="quickdraw-default" src="https://user-images.githubusercontent.com/76253089/206917825-c542872e-6413-401d-8076-bbe4786af1cf.png">
-    <h3> Bu başarımda da pull request yapmamız gerekiyor ama bu sefer açtığınız pull requesti close diyip kapatacaksınız. </h3>
+    <h3> In this achievement, we need to make a pull request, but this time you will close the pull request you opened by saying close. </h3>
     
     
- # Shark Başarımındaki gibi bu repoyu forklayın ve forkladığınız repoyu düzenlemeye geçin. Sonrasında pull requesti oluşturun.
+ # Fork this repo as in Shark Achievement and proceed to edit the forked repo. Then create the pull request.
 ![image](https://user-images.githubusercontent.com/76253089/206917890-c9634194-5848-417f-bd12-fe7e4c70b4f0.png)
     
 <br>
     
- # Sonra açılan sayfada işaretli yere basıp pull requesti kapatın işlem bu kadar basit...
+ # Then on the page that opens, click on the marked place and close the pull request, it's that simple...
     
 ![image](https://user-images.githubusercontent.com/76253089/206918372-765a550e-6aba-43f5-9f0d-95595cda51cd.png)
     
   </details>
   
   <details>
-  <summary> <h1> 3.) Pair Extraordinaire Başarımı</summary> </h1>
+  <summary> <h1>3.) Pair Extraordinaire Achievement</summary> </h1>
   
 <img width="148" alt="pair-extraordinaire-default" src="https://user-images.githubusercontent.com/76253089/206920463-8e7d274c-f5c2-4193-9194-0355b493f21d.png">
 
-<h3> Bu başarım için pull request oluşturucaz, yorum kısmına verdiğim kodu yazıp öyle isteği göndereceksiniz.
+<h3> We will create a pull request for this achievement, you will write the code I gave in the comment section and send the request.
 
-# Önce Bu repoyu sağ üstten forklayın, Sonra profilinize gidip Repositories kısmından Github-Basarimlar reposuna girin.</h3>
+# First fork this repo from the top right, then go to your profile, go to Repositories and enter the Github-Basarimlar repo.</h3>
 
-# İşaretlediğim kalem işaretine tıklayıp düzenleme aşamasına gelin
+# Click on the pencil mark and go to the editing stage
 ![image](https://user-images.githubusercontent.com/76253089/206911370-11792ad3-9289-4719-b2db-e8ed7774288d.png)
 
-# İşaretlediğim yazının sonuna nokta koyun (.) 
+# Put a period at the end of the text I marked (.)
 ![image](https://user-images.githubusercontent.com/76253089/206911480-6ee927f2-0fa7-4d6f-aeea-256d47096e28.png)
 
-# Sayfayı aşağı çekin ve Commit changes kısmındaki "Create a new branch .... start a pull requesti seçin ve altta verdiğim komutu yorum kısmına yapıştırın. Propose changes tusuna basın
+# Pull down the page and under Commit changes select "Create a new branch .... start a pull request and paste the command I gave below in the comment section. Press the propose changes button
     
 ```
 Co-authored-by: Kral001 <kral16024@gmail.com>
@@ -119,69 +119,69 @@ Co-authored-by: @kriptodostu <kriptodostu@gmail.com>
     
 ![image](https://user-images.githubusercontent.com/76253089/206920157-95529e70-a1f4-4b67-a37d-741550558aca.png)
 
-# Burda ise direk Create Pull Requeste basın
+# Here, directly press Create Pull Request
 ![image](https://user-images.githubusercontent.com/76253089/206911691-2684f01f-4cbf-457d-b6bf-a8ee0a404e7f.png)
 
-# Şimdi oluşturduğunuz Pull Requesti bana iletmeniz gerekiyor alttaki yazıya tıklayın
- <h2> <a href="https://github.com/kriptodostu/Github-Basarimlar/compare/" target="_blank">Buraya tıklayın!</a> </h2>
+# Now you need to send me the Pull Request you created, click on the text below
+ <h2> <a href="https://github.com/kriptodostu/Github-Basarimlar/compare/" target="_blank">Click here!</a> </h2>
 <br>
 
-# Buraya dikkat edin açılan ekranda bu kısmı düzenlemeniz lazım aşağıdaki örnek foto ve yazıyı inceleyebilirsiniz. <br>
+# Pay attention here, you need to edit this part on the screen that opens, you can examine the sample photo and text below. <br>
 ![image](https://user-images.githubusercontent.com/76253089/206920394-3b685ebc-2ada-4775-826a-86216fd82576.png)
 
-base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-basarimlar compare: forkismi-patch-1
+base reposity: kriptodostu/Github-Basarimlar base: main <- kullanıcıiciadin/Github-basarimlar compare: forkismi-patch-1
 ![image](https://user-images.githubusercontent.com/76253089/206915095-cc3bbff1-d5d0-40bf-bfb2-8d2f9c2ae7ec.png)
-# Ayarladıktan sonra Create Pull request diyip açılan ekranda Tekrar pull requeste basın
+# After setting, say Create Pull request and press pull request again on the screen that opens
 ![image](https://user-images.githubusercontent.com/76253089/206915324-eba6b284-b95f-4db5-b109-2083195a061d.png)
 
-# İşlem bu kadardı.. Sonrasında pull requestinizin onaylanmasını bekleyin. Sorunuz varsa Rues Community chat üzerinden beni etiketleyerek sorabilirsiniz @enzifiri
+# That's the process. Then wait for your pull request to be approved. If you have any questions, you can ask by tagging me on Rues Community chat @enzifiri
 </details>
 
    
 <details>
-  <summary> <h1> 4.) Galaxy Brain Başarımı </summary> </h1>
+  <summary> <h1> 4.) Galaxy Brain Achievement </summary> </h1>
   
   <img width="148" alt="galaxy-brain-default" src="https://user-images.githubusercontent.com/76253089/206925619-918db619-98d9-4bdc-aeb1-6aad99d7ba35.png">
   
 <br>
   
-  ## Bu rozet için 2 adet soruya cevap verip, soru sahibinin cevabınızı onaylaması gerekmektedir.
+  ## For this badge, you must answer 2 questions and the question owner must approve your answer.
 
-## Öncelikle alttaki yazıya tıklayın açılan sayfada yanında gri tik olan bi soruya girin (yanında yeşik olanlar onaylanmış onlara atsanızda rozet alamazsınız.)
-## Eğer boşta soru yoksa telegramdan bana ulaşın yeni bi soru oluşturacağım @enzifiri
-<h2> <a href="https://github.com/kriptodostu/Github-Basarimlar/discussions" target="_blank">Buraya tıklayın!</a> </h2>
+## First of all, click on the article below, enter a question with a gray tick next to it on the page that opens (the green ones next to it are approved, you cannot get a badge even if you throw them.)
+## If there is no question available, contact me on telegram and I will create a new question @enzifiri
+<h2> <a href="https://github.com/kriptodostu/Github-Basarimlar/discussions" target="_blank">Click here!</a> </h2>
   
 ![image](https://user-images.githubusercontent.com/76253089/206925855-b905faa2-b59b-4ac8-948d-2b3023139d13.png)
 
-## Sonra herhangi bi yazı yazıp comment tusuna basın
+## Then type any text and press the comment button
 ![image](https://user-images.githubusercontent.com/76253089/206925984-673f1913-ff44-4421-b7cf-d77a13a4db89.png)
 
-## Rozet için 2 soruyu yanıtlamanız gerekiyor. Aynı soruya 2 kere cevap veremiyorsunuz. Geri dönüp farklı soruyu yanıtlayın.
+## You have to answer 2 questions for the badge. You cannot answer the same question twice. Go back and answer a different question.
 
-## Soruları ben tek tek yazıyorum eğer boşta soru kalmamışsa telegramdan bana ulaşın @enzifiri
+## I write the questions one by one, if there are no questions left, contact me on telegram @enzifiri
 
   </details>
   
   <details>
-  <summary> <h1> 5.)Yolo Başarımı </summary> </h1>
+  <summary> <h1> 5.)Yolo Success </summary> </h1>
     
 ![image](https://user-images.githubusercontent.com/76253089/207735460-88ac55e1-a1fa-4300-98bf-2bb7a51b3d5d.png)
     
-  ## Bu rozet için oluşturduğunuz repoya bir kullanıcı atayacaksınız, sonrasında pull request oluşturup inceleyen olarak eklediğiniz kişiyi seçeceksiniz.
+  ## For this badge, you will assign a user to the repo you created, then create a pull request and select the person you added as a reviewer.
   
-  # Profilinize gidin ve yeni repo oluşturun
+  # Go to your profile and create a new repo
   
   ![image](https://user-images.githubusercontent.com/76253089/206999008-3cb99795-dffa-4236-9115-ab71acd12304.png)
 
-  # Açılan ekranda aşağıdaki ayarların aynısını yapın ve create tusuna basın.
+  # On the screen that opens, make the same settings as below and press create.
   
   ![image](https://user-images.githubusercontent.com/76253089/206999222-87cea311-54c4-4a44-b89f-89c458e5e633.png)
 
-  # Sırasıyla işaretlediğim yerlere basın
+  # Press the places I have marked respectively
   
   ![image](https://user-images.githubusercontent.com/76253089/206999890-4b4f2e6b-4b78-4ab3-9a72-64991da12236.png)
   
-  # E posta adresimi yazmanız gerekiyor, bu işlem beni sizin reponuzda değişiklik yapabilmemi sağlıyor.
+  # You need to enter my e-mail address, this allows me to make changes to your repository.
   
   ```
   kriptodostu@gmail.com
@@ -189,43 +189,43 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
   
 ![image](https://user-images.githubusercontent.com/76253089/207000155-15560761-0330-40d4-8435-058105bd2b11.png)
 
-  ## Sonra reponuza geri dönün ve kalem butonuna basıp reponuzu düzenleyin. Herhangi bi yere nokta koyun ve aşağı çekin pull request oluşturun.
+  ## Then go back to your repo and edit your repo by pressing the pen button. Put a dot anywhere and pull down to create a pull request.
 
   ![image](https://user-images.githubusercontent.com/76253089/207000489-86a95a57-7a00-4c70-82dd-8e4da473c7f1.png)
 
-  ## Açılan sayfada sağda Reviewers kısmı var beni oraya ekleyin ve create pull requeste basın 
+  ## On the page that opens, there is a Reviewers section on the right, add me there and press create pull request
   
   ![image](https://user-images.githubusercontent.com/76253089/207000717-c030e1f1-52f6-4163-b6ce-692463e22af4.png)
 
-  ## Repo sizin olduğu için pull requesti direk merge ederek onaylayabiliyorsunuz. İşlem bu kadardı
+  ## Since the repo is yours, you can approve the pull request directly by merge. That was the process
 
   ![image](https://user-images.githubusercontent.com/76253089/207000883-4ac00127-f57e-440f-9d05-02ba2f404fe9.png)
 
-  ## Dikkat, reviewers kısmında gözükmüyorsam muhtemelen isteğinizi onaylamamışımdır. Bana telegramdan github kullanıcı adınızı iletin Telegramım @enzifiri
+  ## Attention, if I'm not in the reviewers section, I probably haven't approved your request. Send me your github username on telegram My Telegram is @enzifiri
 </details>
 
   
 
  <details>
-  <summary> <h1> 6. ÜCRETLİ ROZET! 1$ (Sponsor Başarımı) </summary> </h1>
+  <summary> <h1> 6th PAID badge! 1$ (Sponsor Achievement) </summary> </h1>
    
 ![image](https://user-images.githubusercontent.com/76253089/207735554-205d7a96-e594-4975-b14f-fb588abd3aa2.png)
 
-  # Arkadaşlar bu rozeti alabilmek için açık kaynak kodlu bir projeye (profile de olabilir ama projeyi öneririm) sponsor olmanız gerekiyor, ben bunu curl projesine 1 dolar yatırarak yaptım dilerseniz siz de hem rozeti hem de + sponsoring kısmını açabilirsiniz. Aşağıdan profilimi inceleyebilirsiniz.
+  # Friends, in order to get this badge, you need to sponsor an open source project (it can be a profile, but I recommend the project), I did this by investing 1 dollar in the curl project, if you wish, you can open both the badge and + sponsoring part. You can check my profile below.
 
   ![image](https://user-images.githubusercontent.com/76253089/207731053-67a9c855-922c-431f-95b1-ead64cb79129.png)
 
   ![image](https://user-images.githubusercontent.com/76253089/207730963-fb2f906f-c85c-4679-8b63-a832f22e2fec.png)
   
-  # Curl projesinin sponsor kısmına git, sponsor tuşuna tıklayacaksınız aşağıdakı bağlantıdan direk gidebilirsiniz
+  # Go to the sponsor section of the Curl project, you will click on the sponsor button, you can go directly from the following link
   
-  <h2> <a href="https://github.com/sponsors/curl?frequency=one-time&" target="_blank">Buraya tıklayın!</a> </h2>
+  <h2> <a href="https://github.com/sponsors/curl?frequency=one-time&" target="_blank">Click here!</a> </h2>
   
-  # Select a tier kısmının One-Time olduğundan emin olun ve oraya 1$ yazın, sonra select tusuna tıklayın.
+  # Make sure Select a tier is One-Time and type $1 there, then click select.
   
   ![image](https://user-images.githubusercontent.com/76253089/207731463-3aa88971-4b39-458e-bda7-87020f122fe4.png)
 
-  # Sonrasında sizden ödeme için kart bilgilerini istiyor o bilgileri girdikten sonra son bir işlem kalıyor, aşağıda belirttiğim gibi yapın ve sponsor curla basın işlem bu kadar...
+  # Then it asks you for card information for payment, after entering that information, there is one last process, do as I mentioned below and press the sponsor curla, that's it...
 
 ![image](https://user-images.githubusercontent.com/76253089/207731917-dd355b96-997d-4b39-9370-fa4dcf92af89.png)
    
@@ -235,25 +235,25 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
     
 <br>
     
-<h1> EKSTRA ÖZELLEŞTİRMELER / Developer Program Member Ünvanı ve Organizasyonlar </h1>
+<h1> EXTRA SPECIALIZATIONS / Developer Program Member Title and Organizations </h1>
 
 <details>
       
-<summary> <h1> 1. Developer Program Member Ünvanı </summary> </h1>
+<summary> <h1> 1. Developer Program Member Title </summary> </h1>
   
 ![image](https://user-images.githubusercontent.com/76253089/207735766-2ebcc4dd-00ac-43d7-9ff8-a33323c883a4.png)
 
 <br>
   
-## Merhaba bu ünvanı almak için mail + websitenizin olması gerekiyor. Benim websitemi referans gösterebilirsiniz. Aşağıdaki linke gidin ve işaretlediğim kısıma basın.
+## Hello, you need to have mail + website to get this title. You can reference my website. Go to the link below and press the part I marked.
 
- <h2> <a href="https://docs.github.com/en/developers/overview/github-developer-program" target="_blank">Site Linki</a> </h2>
+ <h2> <a href="https://docs.github.com/en/developers/overview/github-developer-program" target="_blank">Site Link</a> </h2>
 
 ![image](https://user-images.githubusercontent.com/76253089/207733337-2850692d-0617-4880-8120-81ec735e40de.png)
  
 <br>
   
-## Açılan kısımda kayıt ekranı açılacak işaretlediğim alanda Email + Website istiyor, Email adresinize kendi adresinizi website kısmına aşağıdaki siteyi girin
+## In the section that opens, the registration screen will open, in the field I have marked, it asks for Email + Website, enter your own address in your email address and the following site in the website section
       
 ```
 https://enzifiri.me/
@@ -263,7 +263,7 @@ https://enzifiri.me/
       
 <br>
   
-## Bilgileri girdikten sonra Register for the GitHub Developer Program butonuna basın ve ünvanınızı alın
+## After entering the information, click Register for the GitHub Developer Program and get your title
 
 ![image](https://user-images.githubusercontent.com/76253089/207735976-b677c8e2-92c0-4572-ba65-ec7b5cdf235d.png)
 
@@ -273,11 +273,11 @@ https://enzifiri.me/
 
 <details>
       
-<summary> <h1> 2. Organizasyonlar </summary> </h1>
+<summary> <h1> 2. Organizations </summary> </h1>
 
 ![image](https://user-images.githubusercontent.com/76253089/207739584-a83b6ba5-7067-49b1-a13c-325b7c005039.png)
 
-## Organizasyonları kendiniz kurabilirsiniz, detayları unuttum (12.09.2023)
+## You can set up the organizations yourself, I forgot the details (12.09.2023)
 
 </details>
 
