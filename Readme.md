@@ -82,7 +82,7 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullanıcıiciadin/Gi
 
   
   <details>
-  <summary> <h1> 2.) Quickdraw Success</summary> </h1>
+  <summary> <h1> 2.) Quickdraw Achievement</summary> </h1>
     <img width="148" alt="quickdraw-default" src="https://user-images.githubusercontent.com/76253089/206917825-c542872e-6413-401d-8076-bbe4786af1cf.png">
     <h3> In this achievement, we need to make a pull request, but this time you will close the pull request you opened by saying close. </h3>
     
@@ -166,7 +166,7 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullanıcıiciadin/Gi
   </details>
   
   <details>
-  <summary> <h1> 5.)Yolo Success </summary> </h1>
+  <summary> <h1> 5.)Yolo Achievement </summary> </h1>
     
 ![image](https://user-images.githubusercontent.com/76253089/207735460-88ac55e1-a1fa-4300-98bf-2bb7a51b3d5d.png)
     
