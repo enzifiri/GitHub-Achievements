@@ -1,9 +1,8 @@
-....
-<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır.... .🏆........
-
+<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır?..  
+  
+   [TURKISH GUIDE](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) 
+   
  </h1>
-
-
 
 <div align="center">
   
@@ -14,8 +13,6 @@
 
 
 ## Github başarımları sayesinde form doldurduğunuz projelerden seçilme ihtimalinizi az da olsa arttırabileceğinizi düşünüyorum. Profilde dikkat çekici duruyor. Bazı başarımları almak gayet kolay, nasil alabileceğinizi bu repoda detaylı anlatıyorum.
-
-
 
 <br>
 
@@ -150,7 +147,8 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
   
   ## Bu rozet için 2 adet soruya cevap verip, soru sahibinin cevabınızı onaylaması gerekmektedir.
 
-## Öncelikle alttaki yazıya tıklayın açılan sayfada cevaplanmamış herhangi bi soruya girin
+## Öncelikle alttaki yazıya tıklayın açılan sayfada yanında gri tik olan bi soruya girin (yanında yeşik olanlar onaylanmış onlara atsanızda rozet alamazsınız.)
+## Eğer boşta soru yoksa telegramdan bana ulaşın yeni bi soru oluşturacağım @enzifiri
 <h2> <a href="https://github.com/kriptodostu/Github-Basarimlar/discussions" target="_blank">Buraya tıklayın!</a> </h2>
   
 ![image](https://user-images.githubusercontent.com/76253089/206925855-b905faa2-b59b-4ac8-948d-2b3023139d13.png)
@@ -183,7 +181,7 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
   
   ![image](https://user-images.githubusercontent.com/76253089/206999890-4b4f2e6b-4b78-4ab3-9a72-64991da12236.png)
   
-  # E posta adresimi yazmanız gerekiyor, bu işlem beni sizin reponuzda değişiklik yapabilmemi sağlıyor.
+  # E-posta adresimi yazmanız gerekiyor, bu işlem beni sizin reponuzda değişiklik yapabilmemi sağlıyor.
   
   ```
   kriptodostu@gmail.com
@@ -283,4 +281,4 @@ https://enzifiri.me/
 
 </details>
 
-....
+......
