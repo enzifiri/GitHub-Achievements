@@ -17,7 +17,7 @@
   
 
 
-## Github achievements I think you can slightly increase your chances of being selected for the projects you fill out the form for. It looks attractive in the profile. Some achievements are very easy to get, I explain in detail how to get them in this repo.
+## Github achievements. I think you can slightly increase your chances of being selected for the projects you fill out the form for. It looks attractive in the profile. Some achievements are very easy to get, I explain in detail how to get them in this repo.
 
 <br>
 
