@@ -284,5 +284,3 @@ https://enzifiri.me/
 ## You can set up the organizations yourself, I forgot the details (12.09.2023)
 
 </details>
-
-.........
