@@ -12,7 +12,7 @@
   
 
 
-## Github başarımları sayesinde form doldurduğunuz projelerden seçilme ihtimalinizi az da olsa arttırabileceğinizi düşünüyorum. Profilde dikkat çekici duruyor. Bazı başarımları almak gayet kolay, nasil alabileceğinizi bu repoda detaylı anlatıyorum..
+## Github başarımları sayesinde form doldurduğunuz projelerden seçilme ihtimalinizi az da olsa arttırabileceğinizi düşünüyorum. Profilde dikkat çekici duruyor. Bazı başarımları almak gayet kolay, nasil alabileceğinizi bu repoda detaylı anlatıyorum...
 
 <br>
 
