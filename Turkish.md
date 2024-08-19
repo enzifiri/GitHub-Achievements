@@ -1,26 +1,27 @@
-<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır... 🏆. </h1>
+<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır?..  ...
+  
+   [TURKISH GUIDE](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png) 
+   
+ </h1>
+
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/76253089/207732664-ad09ce9a-d336-4078-83e2-937c8b644ebe.png)
 
 
   
-</div>
 
-## Github başarımları sayesinde form doldurduğunuz projelerden seçilme ihtimalinizi az da olsa arttırabileceğinizi düşünüyorum. Profilde dikkat çekici duruyor. Bazı başarımları almak gayet kolay, nasıl alabileceğinizi anlatmaya çalısıcam. Öncelikle Başarımları bir inceleyelim. Profilde nasıl durduğunu görmek istiyorsanız aşağındaki linke tıklayın. Ayrıca karşılıklı takip yapalım sağdaki contributors kısmındakileri takip edin. <3
 
- <h2> <a href="https://github.com/kriptodostu" target="_blank">Profil Linki</a> </h2>
- 
-![image](https://user-images.githubusercontent.com/76253089/206989656-f57f282b-85ef-4c08-b632-bdc5ebac3ce9.png)
-
+## Github başarımları sayesinde form doldurduğunuz projelerden seçilme ihtimalinizi az da olsa arttırabileceğinizi düşünüyorum. Profilde dikkat çekici duruyor. Bazı başarımları almak gayet kolay, nasil alabileceğinizi bu repoda detaylı anlatıyorum..
 
 <br>
 
-# Merhaba, Öncelikle bu repoyu sağ üstten fork + starlayın. 🥇
+### Merhaba, Öncelikle bu repoyu sağ üstten fork + starlayın. 🥇.
 <br>
 
 ![image](https://user-images.githubusercontent.com/76253089/206909805-28666435-4b75-4ca0-b44b-83241bcd33dc.png) <br>
 
+</div>
 
 ## Achievements
 
@@ -146,7 +147,8 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
   
   ## Bu rozet için 2 adet soruya cevap verip, soru sahibinin cevabınızı onaylaması gerekmektedir.
 
-## Öncelikle alttaki yazıya tıklayın açılan sayfada cevaplanmamış herhangi bi soruya girin
+## Öncelikle alttaki yazıya tıklayın açılan sayfada yanında gri tik olan bi soruya girin (yanında yeşik olanlar onaylanmış onlara atsanızda rozet alamazsınız.)
+## Eğer boşta soru yoksa telegramdan bana ulaşın yeni bi soru oluşturacağım @enzifiri
 <h2> <a href="https://github.com/kriptodostu/Github-Basarimlar/discussions" target="_blank">Buraya tıklayın!</a> </h2>
   
 ![image](https://user-images.githubusercontent.com/76253089/206925855-b905faa2-b59b-4ac8-948d-2b3023139d13.png)
@@ -179,7 +181,7 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullaniciadin/Github-
   
   ![image](https://user-images.githubusercontent.com/76253089/206999890-4b4f2e6b-4b78-4ab3-9a72-64991da12236.png)
   
-  # E posta adresimi yazmanız gerekiyor, bu işlem beni sizin reponuzda değişiklik yapabilmemi sağlıyor.
+  # E-posta adresimi yazmanız gerekiyor, bu işlem beni sizin reponuzda değişiklik yapabilmemi sağlıyor.
   
   ```
   kriptodostu@gmail.com
@@ -275,9 +277,8 @@ https://enzifiri.me/
 
 ![image](https://user-images.githubusercontent.com/76253089/207739584-a83b6ba5-7067-49b1-a13c-325b7c005039.png)
 
-## Şuan kurduğum 6 organizasyon var, bunlara dahil olabilmek için aşağıya github e-mail adresinizi bırakın.
-
-  <h2> <a href="https://forms.gle/PEPTefozft7rRkW99" target="_blank">Buraya tıklayın!</a> </h2>
+## Organizasyonları kendiniz kurabilirsiniz, detayları unuttum (12.09.2023)
 
 </details>
 
+........
