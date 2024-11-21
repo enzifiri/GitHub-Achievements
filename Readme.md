@@ -27,7 +27,7 @@
 
 </div>
 
-## Achievements
+## Achievements...
 
 | Badge | Name | How to get | Needed amount |
 | :-: | :-: | :-: | :-: |
