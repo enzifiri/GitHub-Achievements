@@ -1,4 +1,4 @@
-
+........
 <h1 align="center">How to Get GitHub Profile Badges. 14/07/2024
   
    [TURKISH GUIDE](https://github.com/enzifiri/GitHub-Achievements/blob/main/Turkish.md) <br>
@@ -27,7 +27,7 @@
 
 </div>
 
-## Achievements
+## Achievements .....
 
 | Badge | Name | How to get | Needed amount |
 | :-: | :-: | :-: | :-: |
