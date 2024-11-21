@@ -1,4 +1,4 @@
-
+......
 <h1 align="center">How to Get GitHub Profile Badges. 14/07/2024
   
    [TURKISH GUIDE](https://github.com/enzifiri/GitHub-Achievements/blob/main/Turkish.md) <br>
@@ -17,7 +17,7 @@
 
 
 ## Github achievements. I think you can slightly increase your chances of being selected for the projects you fill out the form for. It looks attractive in the profile. Some achievements are very easy to get, I explain in detail how to get them in this repo.
-
+....
 <br>
 
 #### Hello, First fork + star this repo from the top right. 🥇
@@ -27,7 +27,7 @@
 
 </div>
 
-## Achievements
+## Achievements .....
 
 | Badge | Name | How to get | Needed amount |
 | :-: | :-: | :-: | :-: |
