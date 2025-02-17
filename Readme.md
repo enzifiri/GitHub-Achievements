@@ -249,7 +249,7 @@ base reposity: kriptodostu/Github-Basarimlar base: main <- kullanıcıiciadin/Gi
 
 <br>
   
-## Hello, you need to have mail + website to get this title. You can reference my website. Go to the link below and press the part I marked.
+## Hello, you need to have mail + website to get this title. You can reference my website. Go to the link below and press the part I marked..
 
  <h2> <a href="https://docs.github.com/en/developers/overview/github-developer-program" target="_blank">Site Link</a> </h2>
 
