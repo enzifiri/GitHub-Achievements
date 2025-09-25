@@ -20,7 +20,7 @@
 
 <br>
 
-#### Hello, First fork + star this repo from the top right.. 🥇
+#### + Hello, First fork + star this repo from the top right.. 🥇
 <br>
 
 ![image](https://user-images.githubusercontent.com/76253089/206909805-28666435-4b75-4ca0-b44b-83241bcd33dc.png) <br>
