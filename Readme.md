@@ -158,6 +158,6 @@ Click Register for the GitHub Developer Program.
 <details>
 <summary><b>2. Organizations</b></summary>
 
-You can set up and join organizations yourself from your GitHub profile settings. (Details updated as of 12.09.2023)
+You can set up and join organizations yourself from your GitHub profile settings. (Details updated as of 24.04.2026)
 
 </details>
