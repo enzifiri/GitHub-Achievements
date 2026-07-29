@@ -12,7 +12,7 @@
 
 </div>
 
-> **💡 Why get achievements?** Having GitHub achievements can slightly increase your chances of being selected for projects and forms. It makes your profile look active and attractive. Some are very easy to get, and I'll explain how in this repo!
+> **💡 Why get achievements?** Having GitHub achievements can slightly increase your chances of being selected for projects and forms. It makes your profile look active and attractive! Some are very easy to get, and I'll explain how in this repo!
 
 ### 🥇 First Step
 Before we begin, please **Fork** and **Star** this repo from the top right!
