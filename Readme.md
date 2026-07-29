@@ -1,4 +1,4 @@
-# 🏆 How to Get GitHub Profile Badges (2026 Guide)
+# 🏆 How to Get GitHub Profile Badges (2026 Guide).
 
 **Available in other languages:**
 * 🇹🇷 [Turkish Guide](https://github.com/enzifiri/GitHub-Achievements/blob/main/Turkish.md)
