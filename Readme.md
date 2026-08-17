@@ -61,7 +61,7 @@ Below are detailed instructions for specific badges. You can research the others
 <details>
 <summary><b>2. Quickdraw Achievement</b></summary>
 
-**Requirement:** Open and close a pull request within 5 minutes.
+**Requirement:** Open and close a pull request within 5 minutes..
 
 1. **Fork** this repo just like you did for the Pull Shark achievement and edit the file.
 2. Create the Pull Request.
