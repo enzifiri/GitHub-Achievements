@@ -43,7 +43,7 @@ Below are detailed instructions for specific badges. You can research the others
 <details>
 <summary><b>1. Pull Shark Achievement</b></summary>
 
-**Requirement:** Create 2 Pull Requests and have them merged.
+**Requirement:** Create 2 Pull Requests and have them merged..
 
 1. **Fork** this repository from the top right.
 2. Go to your profile, click on **Repositories**, and enter your forked `Github-Basarimlar` repo.
