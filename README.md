@@ -1,4 +1,4 @@
-<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır... 🏆 (.) </h1>
+<h1 align="center"> GitHub Profil Rozetleri Nasıl Alınır... 🏆?</h1>
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/76253089/207732664-ad09ce9a-d336-4078-83e2-937c8b644ebe.png)
